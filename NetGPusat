@@ -1213,50 +1213,7 @@
 ||yesadvertising.com^
 ||zanox.com^
 ||zeti.com^
-!+ PLATFORM(ios, ext_safari)
-!+ NOT_OPTIMIZED
-||embed.sendtonews.com^
-!+ NOT_OPTIMIZED
-||o333o.com^
-!+ NOT_OPTIMIZED
-||dianomi.com^
-!+ NOT_OPTIMIZED
-||leaderhistliness.info^
-!+ NOT_OPTIMIZED
-||amazon-adsystem.com^
-!
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
-||stripe.rs-1028-a.com^
-!
-! Ads reinjection (For apps only)
-!+ NOT_PLATFORM(windows, mac, android)
-!+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
-!+ NOT_PLATFORM(windows, mac, android)
-!+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
-||hub.fghtem.com^
-!
-! https://github.com/AdguardTeam/AdguardFilters/issues/31688
-!
-||d71e6dd31a026d45.com
-||adrunnr.com^
-!
-! https://github.com/AdguardTeam/AdGuardHome/issues/1046
-||samsungtvads.com^
-||adconsent.samsungrs.com^
-
-!
-! Source name: AdGuard Base filter ad servers first-party
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
-!
-!
-! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
-! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
-!
-! Good: ||ad.doubleclick.net^
-! Bad: /banner.jpg (should be in general_url.txt)
-! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
-!
-!
+! 1
 ||dad1mq193mgtr.cloudfront.net^
 ||d3vw74hiy9xqtm.cloudfront.net^
 ||d36utvtykl56bp.cloudfront.net^
