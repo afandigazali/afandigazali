@@ -31,7 +31,7 @@
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 ! The rules with hints are at the end of file.
 
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -55,7 +55,7 @@
 ||ywudaepnaudn.com^
 ||ussckwroweoyv.com^
 ||hopbeduhzbm.com^
-||adtclickwhite.com^
+||adt0white.com^
 ||moneytatorone.com^
 ||tlvkywwnuvgtq.com^
 ||qrwkkcyih.xyz^
@@ -104,7 +104,7 @@
 ||fykjhzjyjvx.com^
 ||flashb.id^
 ||provingavidity.com^
-||gold-line.click^
+||gold-line.0^
 ||adtago.s3.amazonaws.com^
 ||tiesmmflv.com^
 ||hyelgehg.xyz^
@@ -294,7 +294,7 @@
 ||static.ads.crakmedia.com^
 ||choacmax.xyz^
 ||bgcold.com^
-||runoj.click^
+||runoj.0^
 ||filthybudget.com^
 ||adblock-one-protection.com^
 ||ixisivomer.com^
@@ -325,7 +325,7 @@
 ||loc.sexymilfspics.com^
 ||all-ti-cod.com^
 ||covivado.club^
-||go2click.online^
+||go20.online^
 ||tintedparticular.com^
 ||itchinglikely.com^
 ||iwistracks.com^
@@ -351,7 +351,7 @@
 ||xszcdn.com^
 ||myownshop.at^
 ||uads.store^
-||toromclick.com^
+||torom0.com^
 ||yollamedia.com^
 ||omjitjlhx.com^
 ||pusishegre.com^
@@ -429,7 +429,7 @@
 ||lehephubu.com^
 ||uii.io^
 ||coinad.org^
-||privatespace.click^
+||privatespace.0^
 ||bg4nxu2u5t.com^
 ||brazzerssurvey.com^
 ||ee-softs.com^
@@ -467,7 +467,7 @@
 ||familialsimulation.com^
 ||ku2d3a7pa8mdi.com^
 ||jomtingi.net^
-||clickcanoe.com^
+||0canoe.com^
 ||user-shield-check.com^
 ||radull.com^
 ||tag.winister.app^
@@ -570,7 +570,7 @@
 ||celeb-trending.com^
 ||clifads.com^
 ||mobileoffers-ac-download.com^
-||api.clickaine.com^
+||api.0aine.com^
 ||video-ads-module.ad-tech.nbcuni.com^
 ||liadm.com^
 ||trustiseverything.de^
@@ -582,7 +582,7 @@
 ||wearetopple.com^
 ||guandads.com^
 ||lifeimpressions.net^
-||clickgate07.biz^
+||0gate07.biz^
 ||mousecatzilla.com^
 ||destroyedspear.com^
 ||popcashjs.b-cdn.net^
@@ -590,7 +590,7 @@
 ||freewheel-mtgx-tv.akamaized.net^
 ||smartmnews.pro^
 ||unspeakablepurebeings.com^
-||clickgate09.biz^
+||0gate09.biz^
 ||rexpush.info^
 ||bvmcdn.net^
 ||bvmtogo.com^
@@ -651,7 +651,7 @@
 ||hothomefuck.com^
 ||adultsclips.com^
 ||lajeshuru.pro^
-||jillsclickcorner.com^
+||jills0corner.com^
 ||cst.cstwpush.com^
 ||pixfuture.com^
 ||eppmedia.si^
@@ -753,7 +753,7 @@
 ||offclaydolon.com^
 ||cehuiy.com^
 ||engagedhits.com^
-||click.hooligapps.com^
+||0.hooligapps.com^
 ||sersh.com^
 ||crevicedepressingpumpkin.com^
 ||zazerygu.pro^
@@ -818,7 +818,7 @@
 ||srtrak.com^
 ||bestcond1tions.com^
 ||refpasrasw.world^
-||bulletprofitadclick.com^
+||bulletprofitad0.com^
 ||heauty-viesected.com^
 ||contexthub.net^
 ||gotchosen.com^
@@ -871,7 +871,7 @@
 ||passtechusa.com^
 ||ad.pornimg.xyz^
 ||apionloadmedia.com^
-||nextclickadv.com^
+||next0adv.com^
 ||prpops.com^
 ||tracking.scenepass.com^
 ||irtyd.com^
@@ -913,7 +913,7 @@
 ||postlnk.com^
 ||viatepigan.com^
 ||pagiwp.com^
-||nativclick.com^
+||nativ0.com^
 ||pegloang.com^
 ||paripartner.com^
 ||ookris.oferty-kredytowe.pl^
@@ -950,7 +950,7 @@
 ||adalytics.prixacdn.net^
 ||sometired.com^
 ||aleapeact.club^
-||superonclick.com^
+||superon0.com^
 ||bulletprofit.com^
 ||adserver.yahoo.com^
 ||voluumtlkrnarketing.com^
@@ -996,7 +996,7 @@
 ||uniquecaptcha.com^
 ||analyticsq.com^
 ||ads.avocet.io^
-||adswrapme.click^
+||adswrapme.0^
 ||cdn.pljs.ru^
 ||pushwhy.com^
 ||renaissanto.com^
@@ -1058,7 +1058,7 @@
 ||hadarone.com^
 ||muzotur.info^
 ||360adshost.com^
-||clickonometrics.pl^
+||0onometrics.pl^
 ||converti.se^
 ||widget.convertiser.com^
 ||adsenseguard.com^
@@ -1084,7 +1084,7 @@
 ||ad4.udn.com^
 ||ad5.udn.com^
 ||popclck.org^
-||adclickxpress.com^
+||ad0xpress.com^
 ||spacenine.biz^
 ||mds.nipa.co.th^
 ||nicesearches.com^
@@ -1157,7 +1157,7 @@
 ||moneyplatform.biz^
 ||n156adserv.com^
 ||octobird.com^
-||onclicktop.com^
+||on0top.com^
 ||ovgzbnjj.com^
 ||pketred.com^
 ||plsdrct1.me^
@@ -1226,7 +1226,7 @@
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -1436,7 +1436,7 @@
 ||sab.fast.ge^
 ||crystal-ad.ge^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/114260
-||head-clickfusion.com^
+||head-0fusion.com^
 ||headerbidding.services^
 ||3myad.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/97769
@@ -1560,7 +1560,7 @@ vkcdnservice.appspot.com^
 ||smartoffer.site^
 ||thewhizproducts.com^
 ||thewise.com^
-||traffic.tc-clicks.com^
+||traffic.tc-0s.com^
 ||tulip18.com^
 ||webmine.cz^
 ||webmining.co^
@@ -2791,7 +2791,7 @@ vkcdnservice.appspot.com^
 ||acinicmislaid.com^
 ||acjkuejxcqfp.com^
 ||ackcdn.net^
-||aclickads.com^
+||a0ads.com^
 ||aclktrkr.com^
 ||acloudvideos.com^
 ||acmaknoxwo.com^
@@ -2848,7 +2848,7 @@ vkcdnservice.appspot.com^
 ||ad-balancer.net^
 ||ad-bay.com^
 ||ad-cheers.com^
-||ad-clicks.com^
+||ad-0s.com^
 ||ad-delivery.net^
 ||ad-flow.com^
 ||ad-guardian.com^
@@ -2926,9 +2926,9 @@ vkcdnservice.appspot.com^
 ||adcl1ckspr0f1t.com^
 ||adclaqbhad.com^
 ||adclerks.com^
-||adclick.pk^
-||adclickmedia.com^
-||adclicks.io^
+||ad0.pk^
+||ad0media.com^
+||ad0s.io^
 ||adcloud.net^
 ||adcolo.com^
 ||adconjure.com^
@@ -3095,7 +3095,7 @@ vkcdnservice.appspot.com^
 ||adovr.com^
 ||adpacks.com^
 ||adpartner.pro^
-||adparty.click^
+||adparty.0^
 ||adpass.co.uk^
 ||adpatrof.com^
 ||adperium.com^
@@ -3113,7 +3113,7 @@ vkcdnservice.appspot.com^
 ||adquet.com^
 ||adrcdn.com^
 ||adreadytractions.com^
-||adrealclick.com^
+||adreal0.com^
 ||adrecreate.com^
 ||adrenalpop.com^
 ||adrenovate.com^
@@ -3276,7 +3276,7 @@ vkcdnservice.appspot.com^
 ||adtvedk.com^
 ||adulatorycrappyghastly.com^
 ||adulatorydigestionmanicure.com^
-||aduld.click^
+||aduld.0^
 ||adult-affiliate.link^
 ||adultadvertising.net^
 ||adultcamchatfree.com^
@@ -4609,9 +4609,9 @@ vkcdnservice.appspot.com^
 ||asev.xyz^
 ||asewlfjqwlflkew.com^
 ||asgccummig.com^
-||asgclickkl.com^
-||asgclickpop.com^
-||asgclickpp.com^
+||asg0kl.com^
+||asg0pop.com^
+||asg0pp.com^
 ||asgildedall.info^
 ||asgildedalloverw.com^
 ||asgmtalconde.com^
@@ -4628,7 +4628,7 @@ vkcdnservice.appspot.com^
 ||ashturfchap.com^
 ||ashyhamburgertwice.com^
 ||asiangfsex.com^
-||asiapushstan17.click^
+||asiapushstan17.0^
 ||asidefeetsergeant.com^
 ||asidegoswillingness.com^
 ||asifgsyky.com^
@@ -5735,7 +5735,7 @@ vkcdnservice.appspot.com^
 ||best-prize.life^
 ||best-protection4.me^
 ||best-vpn-app.com^
-||best-vpn.click^
+||best-vpn.0^
 ||bestabprivily.com^
 ||bestadbid.com^
 ||bestadload.com^
@@ -5744,7 +5744,7 @@ vkcdnservice.appspot.com^
 ||bestapplandever.com^
 ||bestaryua.com^
 ||bestaybuzzed.website^
-||bestclicktitle.com^
+||best0title.com^
 ||bestcomadslive.com^
 ||bestcontentaccess.top^
 ||bestcontentfacility.top^
@@ -5764,7 +5764,7 @@ vkcdnservice.appspot.com^
 ||bestcpmnetwork.com^
 ||bestdisplaycontent.com^
 ||bestdisplayformats.com^
-||besteasyclick.com^
+||besteasy0.com^
 ||bestexp1.com^
 ||bestloans.tips^
 ||bestmmogame.com^
@@ -5777,7 +5777,7 @@ vkcdnservice.appspot.com^
 ||besty-deals.com^
 ||bestzba.com^
 ||betads.xyz^
-||betahit.click^
+||betahit.0^
 ||betalonflamechan.com^
 ||betellavouch.space^
 ||betemolgar.com^
@@ -5872,7 +5872,7 @@ vkcdnservice.appspot.com^
 ||bidadx.com^
 ||bidbadlyarsonist.com^
 ||bidbrain.app^
-||bidclickmedia.com^
+||bid0media.com^
 ||bidder.dev^
 ||bidderads.com^
 ||biddingquarrel.com^
@@ -6066,7 +6066,7 @@ vkcdnservice.appspot.com^
 ||blismedia.com^
 ||blisscleopatra.com^
 ||blissfulblackout.com^
-||blissfulclick.pro^
+||blissful0.pro^
 ||blissfuldes.com^
 ||blissfulonline.com^
 ||blisterpompey.com^
@@ -6267,7 +6267,7 @@ vkcdnservice.appspot.com^
 ||bookletcanvass.com^
 ||bookletcarline.top^
 ||bookljlihooli.com^
-||bookmakers.click^
+||bookmakers.0^
 ||bookmanzyzzyva.com^
 ||bookmenmetope.life^
 ||bookmsg.com^
@@ -6468,7 +6468,7 @@ vkcdnservice.appspot.com^
 ||briefengineer.pro^
 ||brieflizard.com^
 ||brighteroption.com^
-||brightonclick.com^
+||brighton0.com^
 ||brightshare.com^
 ||brigi-jar.com^
 ||brikinhpaxk.com^
@@ -7658,7 +7658,7 @@ vkcdnservice.appspot.com^
 ||clearancejoinjavelin.com^
 ||clearancetastybroadsheet.com^
 ||clearningseri.xyz^
-||clearonclick.com^
+||clearon0.com^
 ||cleavepreoccupation.com^
 ||cleaversince.com^
 ||cleddeexcl.com^
@@ -7683,58 +7683,58 @@ vkcdnservice.appspot.com^
 ||clic2pub.com^
 ||clicadu.com^
 ||clichedreinter.digital^
-||click-cdn.com^
-||click.scour.com^
-||click4free.info^
-||clickadin.com^
-||clickagy.com^
-||clickalinks.xyz^
-||clickallow.net^
-||clickaslu.com^
-||clickbigo.com^
-||clickbooth.com^
-||clickboothlnk.com^
-||clickcash.com^
-||clickcdn.co^
-||clickco.net^
-||clickexperts.net^
-||clickgate.biz^
-||clickgate08.biz^
-||clickintext.com^
-||clickkingdom.net^
-||clickmagick.com^
-||clickmi.net^
-||clickmobad.net^
-||clicknano.com^
-||clicknerd.com^
-||clickopop1000.com^
-||clickosmedia.com^
-||clickoutnetwork.care^
-||clickpapa.com^
-||clickperks.info^
-||clickprotects.com^
-||clickpupbit.com^
-||clickreverendsickness.com^
-||clicks4tc.com^
-||clicksgear.com^
-||clicksmint.site^
-||clicksondelivery.com^
-||clicksor.net^
-||clicksvenue.com^
-||clickterra.net^
-||clickthruhost.com^
-||clickthruserver.com^
-||clicktraceclick.com^
-||clicktracklink.com^
-||clicktrixredirects.com^
-||clicktroute.com^
-||clicktrpro.com^
-||clickupto.com^
-||clickurlik.com^
-||clickwedkeys.com^
-||clickwhitecode.com^
-||clickwinks.com^
-||clickxchange.com^
+||0-cdn.com^
+||0.scour.com^
+||04free.info^
+||0adin.com^
+||0agy.com^
+||0alinks.xyz^
+||0allow.net^
+||0aslu.com^
+||0bigo.com^
+||0booth.com^
+||0boothlnk.com^
+||0cash.com^
+||0cdn.co^
+||0co.net^
+||0experts.net^
+||0gate.biz^
+||0gate08.biz^
+||0intext.com^
+||0kingdom.net^
+||0magick.com^
+||0mi.net^
+||0mobad.net^
+||0nano.com^
+||0nerd.com^
+||0opop1000.com^
+||0osmedia.com^
+||0outnetwork.care^
+||0papa.com^
+||0perks.info^
+||0protects.com^
+||0pupbit.com^
+||0reverendsickness.com^
+||0s4tc.com^
+||0sgear.com^
+||0smint.site^
+||0sondelivery.com^
+||0sor.net^
+||0svenue.com^
+||0terra.net^
+||0thruhost.com^
+||0thruserver.com^
+||0trace0.com^
+||0tracklink.com^
+||0trixredirects.com^
+||0troute.com^
+||0trpro.com^
+||0upto.com^
+||0urlik.com^
+||0wedkeys.com^
+||0whitecode.com^
+||0winks.com^
+||0xchange.com^
 ||clictrck.com^
 ||clikxoiqvdlec.xyz^
 ||climatestandpoint.com^
@@ -7893,7 +7893,7 @@ vkcdnservice.appspot.com^
 ||codeinagugal.com^
 ||codeinssomdel.uno^
 ||codemylife.info^
-||codeonclick.com^
+||codeon0.com^
 ||coderformylife.info^
 ||codesbro.com^
 ||codezap.com^
@@ -8002,7 +8002,7 @@ vkcdnservice.appspot.com^
 ||comenicurled.space^
 ||comermormal.com^
 ||comezz.xyz^
-||comfortclick.co.uk^
+||comfort0.co.uk^
 ||comfortlessspotsbury.com^
 ||comfreeads.com^
 ||comicplanet.net^
@@ -8180,7 +8180,7 @@ vkcdnservice.appspot.com^
 ||contentango.com^
 ||contentango.online^
 ||contentcave.co.kr^
-||contentclick.co.uk^
+||content0.co.uk^
 ||contentdigital.info^
 ||contentedtoothacheturk.com^
 ||contentjs.com^
@@ -8362,7 +8362,7 @@ vkcdnservice.appspot.com^
 ||cpa-optimizer.online^
 ||cpa3iqcp.de^
 ||cpabeyond.com^
-||cpaclicks.com^
+||cpa0s.com^
 ||cpaconvtrk.net^
 ||cpahmeokparn.com^
 ||cpalabtracking.com^
@@ -9256,7 +9256,7 @@ vkcdnservice.appspot.com^
 ||deterrentpainscodliver.com^
 ||deticknippier.com^
 ||detinetcallant.com^
-||detour.click^
+||detour.0^
 ||detrimentaljigsaw.com^
 ||deturbcordies.com^
 ||devastateddisarraybackpack.com^
@@ -9422,7 +9422,7 @@ vkcdnservice.appspot.com^
 ||diptersowar.website^
 ||direbitterly.com^
 ||direct-specific.com^
-||directaclick.com^
+||directa0.com^
 ||directcpmfwr.com^
 ||directcpmrev.com^
 ||directdexchange.com^
@@ -9789,9 +9789,9 @@ vkcdnservice.appspot.com^
 ||0-check.com^
 ||0.net^
 ||0adserve.com^
-||0deepclick.com^
+||0deep0.com^
 ||0max.net^
-||0onclick.com^
+||0on0.com^
 ||0pimp.com^
 ||0pimpssl.com^
 ||0recall.com^
@@ -9979,7 +9979,7 @@ vkcdnservice.appspot.com^
 ||dtssrv.com^
 ||dtsuqeneaipu.com^
 ||dtwobrightsap.info^
-||dtx.click^
+||dtx.0^
 ||dualityflaming.space^
 ||dualmarket.info^
 ||duamilsyr.com^
@@ -9998,7 +9998,7 @@ vkcdnservice.appspot.com^
 ||ducksintroduce.com^
 ||duckswillsmoochyou.com^
 ||ducmiptu.net^
-||ductclickjl.com^
+||duct0jl.com^
 ||ductquest.com^
 ||ducubchooa.com^
 ||ducvkabzox.com^
@@ -10500,7 +10500,7 @@ vkcdnservice.appspot.com^
 ||ehoqtjfazgxzee.com^
 ||ehpvvxyp.com^
 ||ehqdzqi.com^
-||eicxz6jfjaw.click^
+||eicxz6jfjaw.0^
 ||eiewwepb.com^
 ||eighly.com^
 ||eighthwaspish.com^
@@ -10561,7 +10561,7 @@ vkcdnservice.appspot.com^
 ||electranowel.com^
 ||electric-contest.pro^
 ||electricalbicyclelistnonfiction.com^
-||electrodirect.click^
+||electrodirect.0^
 ||electronicconsensus.com^
 ||elecur.com^
 ||eleeghod.xyz^
@@ -10872,7 +10872,7 @@ vkcdnservice.appspot.com^
 ||epsuphoa.xyz^
 ||eptougry.net^
 ||epu.sh^
-||epushclick.com^
+||epush0.com^
 ||eputysolomon.com^
 ||eqacypykxa.com^
 ||eqads.com^
@@ -11035,12 +11035,12 @@ vkcdnservice.appspot.com^
 ||euouaeslurped.com^
 ||eupathyroching.store^
 ||eurckherngh.com^
-||euro-referer.click^
+||euro-referer.0^
 ||europacash.com^
 ||europe-discounts.com^
 ||europeanurinebanana.com^
 ||europertsticke.site^
-||euros4click.de^
+||euros40.de^
 ||eurse.com^
 ||eussianeduke.xyz^
 ||euugbutvb.com^
@@ -11074,7 +11074,7 @@ vkcdnservice.appspot.com^
 ||everywheresavourblouse.com^
 ||eveteaemo.com^
 ||evgywgur.com^
-||eviclick.pro^
+||evi0.pro^
 ||evidentlysoup.com^
 ||evilshortcut.com^
 ||evitinghabnab.guru^
@@ -11173,9 +11173,9 @@ vkcdnservice.appspot.com^
 ||exlusepolly.com^
 ||exmrwwt.com^
 ||exnesstrack.com^
-||exoads.click^
+||exoads.0^
 ||exobafrgdf.com^
-||exoclick.com^
+||exo0.com^
 ||exoclsodaqs.com^
 ||exodsp.com^
 ||exofrwe.com^
@@ -11471,7 +11471,7 @@ vkcdnservice.appspot.com^
 ||fashionacreak.life^
 ||fastapi.net^
 ||fastcdn.info^
-||fastclick.net^
+||fast0.net^
 ||fastdld.com^
 ||fastdlr.com^
 ||fastdmr.com^
@@ -11496,7 +11496,7 @@ vkcdnservice.appspot.com^
 ||fatlossremedies.com^
 ||fatowzsis.com^
 ||fatsosjogs.com^
-||fatstepn.click^
+||fatstepn.0^
 ||fatuoidmunify.com^
 ||fatwalkinger.club^
 ||fatzuclmihih.com^
@@ -11883,7 +11883,7 @@ vkcdnservice.appspot.com^
 ||flapicyconquered.com^
 ||flarebania.com^
 ||flarytapuyan.com^
-||flashclicks.com^
+||flash0s.com^
 ||flashesmouches.store^
 ||flashnetic.com^
 ||flashycontagiouspulverize.com^
@@ -12674,7 +12674,7 @@ vkcdnservice.appspot.com^
 ||genishury.pro^
 ||genistawabbler.com^
 ||geniusbanners.com^
-||geniusonclick.com^
+||geniuson0.com^
 ||geniusunkirk.space^
 ||genomicincises.digital^
 ||genreobrien.digital^
@@ -12708,7 +12708,7 @@ vkcdnservice.appspot.com^
 ||gerusiatootsie.com^
 ||gessoesbeavers.uno^
 ||get-browseprotection.com^
-||get-here-click.xyz^
+||get-here-0.xyz^
 ||get-me-wow.
 ||get-my-prize-n1w.live^
 ||get-partner.life^
@@ -14116,7 +14116,7 @@ vkcdnservice.appspot.com^
 ||hleuindnjcixxep.com^
 ||hlftbsgj.com^
 ||hligh.com^
-||hllowvsion.click^
+||hllowvsion.0^
 ||hlmiq.com^
 ||hlserve.com^
 ||hlunlean.com^
@@ -14550,7 +14550,7 @@ vkcdnservice.appspot.com^
 ||icilyassertiveindoors.com^
 ||icilytired.com^
 ||ickyrustle.com^
-||iclickcdn.com^
+||i0cdn.com^
 ||icmlfqdb.com^
 ||icnwkduxnwl.com^
 ||icoawhou.com^
@@ -16982,7 +16982,7 @@ vkcdnservice.appspot.com^
 ||linkmanglazers.com^
 ||linkmepu.com^
 ||linkoffers.net^
-||linkonclick.com^
+||linkon0.com^
 ||linkredirect.biz^
 ||linkreferral.com^
 ||linksecurecd.com^
@@ -17114,7 +17114,7 @@ vkcdnservice.appspot.com^
 ||loazezoo.net^
 ||lobby-x.eu^
 ||lobipedholw.space^
-||loboclick.com^
+||lobo0.com^
 ||lobosahispa.digital^
 ||lobsterbusily.com^
 ||lobsterpopcorn.com^
@@ -17489,7 +17489,7 @@ vkcdnservice.appspot.com^
 ||m32.media^
 ||m3cads.com^
 ||m45assachucsh9w7etts.com^
-||m4clicks.com^
+||m40s.com^
 ||m73lae5cpmgrv38.com^
 ||m8ppac2on0xy.com^
 ||ma2gs3wne3gfej70osium.com^
@@ -17809,7 +17809,7 @@ vkcdnservice.appspot.com^
 ||maximumimmortality.com^
 ||maximus-time.net^
 ||maxofzavdaft.com^
-||maxonclick.com^
+||maxon0.com^
 ||maxprofitcontrol.com^
 ||maxserving.com^
 ||maybejanuarycosmetics.com^
@@ -17902,7 +17902,7 @@ vkcdnservice.appspot.com^
 ||media6degrees.com^
 ||media970.com^
 ||mediaappletree.com^
-||mediaclick.com^
+||media0.com^
 ||mediacpm.com^
 ||mediaf.media^
 ||mediaforge.com^
@@ -18190,7 +18190,7 @@ vkcdnservice.appspot.com^
 ||ministryensuetribute.com^
 ||minotaur107.com^
 ||minsistereron.xyz^
-||mintclick.xyz^
+||mint0.xyz^
 ||mintmanunmanly.com^
 ||mintsdrouket.com^
 ||minyascannat.com^
@@ -18501,7 +18501,7 @@ vkcdnservice.appspot.com^
 ||morbidlocally.com^
 ||morbidproblem.com^
 ||morbitempus.com^
-||morclicks.com^
+||mor0s.com^
 ||mordieuweeshee.com^
 ||mordoops.com^
 ||moregamers.com^
@@ -18765,7 +18765,7 @@ vkcdnservice.appspot.com^
 ||mycdn.co^
 ||mycdn2.co^
 ||myckdom.com^
-||myclickpush.com^
+||my0push.com^
 ||mycoolfeed.com^
 ||mydailynewz.com^
 ||myeasetrack.com^
@@ -19330,7 +19330,7 @@ vkcdnservice.appspot.com^
 ||noddlegoop.com^
 ||nodouslover.com^
 ||nodulhrwxdptbc.com^
-||noearon.click^
+||noearon.0^
 ||noelsdoc.cam^
 ||noerwe5gianfor19e4st.com^
 ||nofashot.com^
@@ -19643,7 +19643,7 @@ vkcdnservice.appspot.com^
 ||nzilixqaxocl.com^
 ||nzme-ads.co.nz^
 ||o-oo.ooo^
-||o18.click^
+||o18.0^
 ||o18.link^
 ||o2c7dks4.de^
 ||o313o.com^
@@ -20100,18 +20100,18 @@ vkcdnservice.appspot.com^
 ||onboardhairy.com^
 ||onclarck.com^
 ||onclasrv.com^
-||onclickads.net^
-||onclickalgo.com^
-||onclickclear.com^
-||onclickgenius.com^
-||onclickmax.com^
-||onclickmega.com^
-||onclickperformance.com^
-||onclickprediction.com^
-||onclickpulse.com^
-||onclickrev.com^
-||onclickserver.com^
-||onclicksuper.com^
+||on0ads.net^
+||on0algo.com^
+||on0clear.com^
+||on0genius.com^
+||on0max.com^
+||on0mega.com^
+||on0performance.com^
+||on0prediction.com^
+||on0pulse.com^
+||on0rev.com^
+||on0server.com^
+||on0super.com^
 ||onclkds.com^
 ||onclklnd.com^
 ||oncomeannuals.com^
@@ -20120,7 +20120,7 @@ vkcdnservice.appspot.com^
 ||ondybazars.guru^
 ||oneadvupfordesign.com^
 ||oneclck.net^
-||oneclickpic.net^
+||one0pic.net^
 ||onecomedyservices.com^
 ||onedmp.com^
 ||onedragon.win^
@@ -21033,7 +21033,7 @@ vkcdnservice.appspot.com^
 ||paxmedia.net^
 ||paxsfiss.com^
 ||paxxfiss.com^
-||pay-click.ru^
+||pay-0.ru^
 ||payae8moon9.com^
 ||paybackmodified.com^
 ||paybackvocal.com^
@@ -21100,7 +21100,7 @@ vkcdnservice.appspot.com^
 ||peacocktypewriter.com^
 ||peacto.com^
 ||peakchewing.com^
-||peakclick.com^
+||peak0.com^
 ||peakluckily.com^
 ||peakpushedancestor.com^
 ||pealia.com^
@@ -21220,7 +21220,7 @@ vkcdnservice.appspot.com^
 ||perfectplanned.com^
 ||performance-based.com^
 ||performanceadexchange.com^
-||performanceonclick.com^
+||performanceon0.com^
 ||performancetrustednetwork.com^
 ||performanteads.com^
 ||performedlifestyleburial.com^
@@ -21351,7 +21351,7 @@ vkcdnservice.appspot.com^
 ||pheasantgobetweenyearbook.com^
 ||phee1oci.com^
 ||pheeghie.net^
-||pheegoab.click^
+||pheegoab.0^
 ||pheepudo.net^
 ||pheerdoudeem.com^
 ||pheersie.com^
@@ -21722,7 +21722,7 @@ vkcdnservice.appspot.com^
 ||plunderthetics.digital^
 ||plungeideals.life^
 ||pluralsoc.uno^
-||plusclick.biz^
+||plus0.biz^
 ||plusungratefulinstruction.com^
 ||plutonactg.com^
 ||plutothejewel.com^
@@ -21764,7 +21764,7 @@ vkcdnservice.appspot.com^
 ||poastoaz.com^
 ||poatoursiign.xyz^
 ||pobliba.info^
-||pocli.click^
+||pocli.0^
 ||pocrd.cc^
 ||pocrowpush.com^
 ||podalichoorays.life^
@@ -21855,7 +21855,7 @@ vkcdnservice.appspot.com^
 ||ponysuggested.com^
 ||pooboqxoh.xyz^
 ||poodledopas.cam^
-||poogriry.click^
+||poogriry.0^
 ||pookapsa.net^
 ||pookawnratbite.com^
 ||poolbreezecheer.com^
@@ -22075,7 +22075,7 @@ vkcdnservice.appspot.com^
 ||precipitationsloganhazard.com^
 ||precipitationsquall.com^
 ||preciselysolitaryallegation.com^
-||precisionclick.com^
+||precision0.com^
 ||precoilrowlock.digital^
 ||predestineprohibitionmassive.com^
 ||predicamentdisconnect.com^
@@ -22178,7 +22178,7 @@ vkcdnservice.appspot.com^
 ||primaryads.com^
 ||primarystoppedballot.com^
 ||prime-vpnet.com^
-||primerclicks.com^
+||primer0s.com^
 ||primevalstork.com^
 ||primevalsymphonymuttering.com^
 ||primitiveposterappeal.com^
@@ -22317,7 +22317,7 @@ vkcdnservice.appspot.com^
 ||propeller-tracking.com^
 ||propellerads.com^
 ||propellerads.tech^
-||propellerclick.com^
+||propeller0.com^
 ||propellerpops.com^
 ||propeltuition.com^
 ||properlyleash.com^
@@ -22435,7 +22435,7 @@ vkcdnservice.appspot.com^
 ||psausuck.net^
 ||psautiultvvsqxj.xyz^
 ||psauwush.net^
-||psclicks.com^
+||ps0s.com^
 ||psdn.xyz^
 ||pseekree.com^
 ||pseekseecm.com^
@@ -22592,7 +22592,7 @@ vkcdnservice.appspot.com^
 ||publiclyemployeronerous.com^
 ||publicsparedpen.com^
 ||publicunloadbags.com^
-||publisherads.click^
+||publisherads.0^
 ||publishercounting.com^
 ||publited.com^
 ||publpush.com^
@@ -22638,7 +22638,7 @@ vkcdnservice.appspot.com^
 ||pulsatemonos.digital^
 ||pulseadnetwork.com^
 ||pulsemgr.com^
-||pulseonclick.com^
+||pulseon0.com^
 ||pulsercrypto.com^
 ||pulserviral.com^
 ||pumdfferpkin5hs454r43eeds.com^
@@ -23007,7 +23007,7 @@ vkcdnservice.appspot.com^
 ||quackdamaging.com^
 ||quackexclusfdfjd.com^
 ||quadhu.com^
-||quadrupleclick.com^
+||quadruple0.com^
 ||quaewit.com^
 ||quailnude.com^
 ||quaint-escape.pro^
@@ -23303,7 +23303,7 @@ vkcdnservice.appspot.com^
 ||rdrctgoweb.com^
 ||rdreamsofcryin.info^
 ||rdrhmxyitc.com^
-||rdrm1.click^
+||rdrm1.0^
 ||rdroot.com^
 ||rdrsec.com^
 ||rdrtrk.com^
@@ -23467,7 +23467,7 @@ vkcdnservice.appspot.com^
 ||redirecting7.eu^
 ||redirection.one^
 ||redirectlinker.com^
-||redirectsstm.click^
+||redirectsstm.0^
 ||redistedi.com^
 ||redlele.com^
 ||redlmewheni.xyz^
@@ -24810,7 +24810,7 @@ vkcdnservice.appspot.com^
 ||sdsttt.com^
 ||se42ade5e3son7ing.com^
 ||seaboblit.com^
-||seafoodclickwaited.com^
+||seafood0waited.com^
 ||seafoodoutpipe.digital^
 ||seafoodrunnersablative.com^
 ||sealedsimplicitynoun.com^
@@ -24853,7 +24853,7 @@ vkcdnservice.appspot.com^
 ||secure-12.com^
 ||secure.securitetotale.fr^
 ||secureaddisplay.com^
-||secureclickers.com^
+||secure0ers.com^
 ||securecloud-dt.com^
 ||securecloud-smart.com^
 ||secureclouddt-cd.com^
@@ -25766,7 +25766,7 @@ vkcdnservice.appspot.com^
 ||soft-com.biz^
 ||softboxik1.ru^
 ||softboxis2.ru^
-||softclicks.ru^
+||soft0s.ru^
 ||softenedimmortalityprocedure.com^
 ||softonicads.com^
 ||softpopads.com^
@@ -25951,7 +25951,7 @@ vkcdnservice.appspot.com^
 ||specific-safe.pro^
 ||specificallythesisballot.com^
 ||specificationtoasterconsultant.com^
-||specificclick.net^
+||specific0.net^
 ||specificmedia.com^
 ||specificunfortunatelyultimately.com^
 ||specifiedbloballowance.com^
@@ -26183,7 +26183,7 @@ vkcdnservice.appspot.com^
 ||stansoam.com^
 ||staplecups.com^
 ||star-advertising.com^
-||star-clicks.com^
+||star-0s.com^
 ||starchportraypub.com^
 ||stardatis.com^
 ||starefolks.com^
@@ -26405,7 +26405,7 @@ vkcdnservice.appspot.com^
 ||streaming-illimite5.com^
 ||streampsh.top^
 ||streamsearchclub.com^
-||streamtoclick.com^
+||streamto0.com^
 ||streamvideobox.com^
 ||streamyourvid.com^
 ||streenoutrove.life^
@@ -26711,7 +26711,7 @@ vkcdnservice.appspot.com^
 ||sweatytraining.pro^
 ||swebatcnoircv.xyz^
 ||swedecornysupper.com^
-||sweepadstoday.click^
+||sweepadstoday.0^
 ||sweepawejasper.com^
 ||sweepfrequencydissolved.com^
 ||sweepia.com^
@@ -26751,7 +26751,7 @@ vkcdnservice.appspot.com^
 ||sworddubiousagitated.com^
 ||swordeast.com^
 ||swordshiret.net^
-||swtchrules.click^
+||swtchrules.0^
 ||swunge.com^
 ||swungencetacea.website^
 ||swwpush.com^
@@ -27037,7 +27037,7 @@ vkcdnservice.appspot.com^
 ||tebadu.com^
 ||tecaavdsy.com^
 ||techahv.com^
-||techclicks.net^
+||tech0s.net^
 ||techiteration.com^
 ||technicianforestallproper.com^
 ||technologycontemplate.com^
@@ -27149,7 +27149,7 @@ vkcdnservice.appspot.com^
 ||terra8nb.com^
 ||terraceevident.com^
 ||terracehypnotize.com^
-||terraclicks.com^
+||terra0s.com^
 ||terrainslive.com^
 ||terralink.xyz^
 ||terrapsps.com^
@@ -27908,7 +27908,7 @@ vkcdnservice.appspot.com^
 ||trackstracker.com^
 ||tracksystem.online^
 ||tracktds.com^
-||trackvbmobs.click^
+||trackvbmobs.0^
 ||trackvol.com^
 ||trackvoluum.com^
 ||trackwilltrk.com^
@@ -28136,7 +28136,7 @@ vkcdnservice.appspot.com^
 ||trumphjardon.com^
 ||trustaffs.com^
 ||trustbummler.com^
-||trusted-click-host.com^
+||trusted-0-host.com^
 ||trustedcpmrevenue.com^
 ||trustedgatetocontent.com^
 ||trustedpeach.com^
@@ -28287,7 +28287,7 @@ vkcdnservice.appspot.com^
 ||tuxzlhrwejszu.com^
 ||tv1s4d6klh4n.com^
 ||tvbsfmswrjap.com^
-||tvbxrr4ym3.click^
+||tvbxrr4ym3.0^
 ||tvprocessing.com^
 ||tvqqrycnutpp.com^
 ||tvxetxjvobm.com^
@@ -28620,7 +28620,7 @@ vkcdnservice.appspot.com^
 ||undams.com^
 ||undeenardoo.com^
 ||under2given.com^
-||underclick.ru^
+||under0.ru^
 ||undercoverdwell.com^
 ||underdog.media^
 ||undergosermon.com^
@@ -29087,10 +29087,10 @@ vkcdnservice.appspot.com^
 ||valuad.cloud^
 ||valuationbothertoo.com^
 ||valuebreeches.com^
-||valueclick.cc^
-||valueclick.com^
-||valueclick.net^
-||valueclickmedia.com^
+||value0.cc^
+||value0.com^
+||value0.net^
+||value0media.com^
 ||valuedmiming.life^
 ||valuedpulverizelegitimate.com^
 ||valuerlaserlax.com^
@@ -29156,7 +29156,7 @@ vkcdnservice.appspot.com^
 ||vasteeds.net^
 ||vastroll.ru^
 ||vastserved.com^
-||vatanclick.ir^
+||vatan0.ir^
 ||vatcalf.com^
 ||vatcertaininject.com^
 ||vatname.info^
@@ -29458,7 +29458,7 @@ vkcdnservice.appspot.com^
 ||vindicosuite.com^
 ||vinegarfactorelevator.com^
 ||vingartistictaste.com^
-||violationphysics.click^
+||violationphysics.0^
 ||violationphysics.com^
 ||violencegloss.com^
 ||violencemathstowards.com^
@@ -29991,8 +29991,8 @@ vkcdnservice.appspot.com^
 ||webatam.com^
 ||webcampromo.com^
 ||webcampromotions.com^
-||webclickengine.com^
-||webclickmanager.com^
+||web0engine.com^
+||web0manager.com^
 ||webcontentassessor.com^
 ||webestablishedsunflower.com^
 ||webfeetdaidled.com^
@@ -30282,7 +30282,7 @@ vkcdnservice.appspot.com^
 ||widual.com^
 ||wiediceberg.uno^
 ||wiela-kig.com^
-||wifescamara.click^
+||wifescamara.0^
 ||wigetmedia.com^
 ||wigfulchiack.com^
 ||wigglestoriesapt.com^
@@ -30704,7 +30704,7 @@ vkcdnservice.appspot.com^
 ||wwwadcntr.com^
 ||wwwowww.xyz^
 ||wwwpromoter.com^
-||wwwwndings.click^
+||wwwwndings.0^
 ||wxcqdnf.com^
 ||wxejroeeteesr.com^
 ||wxmicgwfzqekj.com^
@@ -30768,7 +30768,7 @@ vkcdnservice.appspot.com^
 ||xcejarignt.com^
 ||xcelltech.com^
 ||xcelsiusadserver.com^
-||xclicks.net^
+||x0s.net^
 ||xcowuheclvwryh.com^
 ||xcqyvahohs.com^
 ||xctignum.uno^
@@ -30862,8 +30862,8 @@ vkcdnservice.appspot.com^
 ||xmerhilrir.com^
 ||xml-api.online^
 ||xmladserver.com^
-||xmlapiclickredirect.com^
-||xmlapiclickredirect10102022.com^
+||xmlapi0redirect.com^
+||xmlapi0redirect10102022.com^
 ||xmlgrab.com^
 ||xmlheartbiddotnet.monster^
 ||xmllover.com^
@@ -31375,7 +31375,7 @@ vkcdnservice.appspot.com^
 ||zealousstraitcommit.com^
 ||zealpickup.com^
 ||zealso.com^
-||zebeaa.click^
+||zebeaa.0^
 ||zebraicrudista.com^
 ||zedoaryrejects.com^
 ||zedsapp.com^
@@ -31687,11 +31687,11 @@ vkcdnservice.appspot.com^
 ||adatrix.com^
 ||adbard.net^
 ||adbasket.net^
-||adbetclickin.pink^
+||adbet0in.pink^
 ||adbetnet.com^
 ||adbit.biz^
 ||adcalm.com^
-||adclickafrica.com^
+||ad0africa.com^
 ||adcolony.com^
 ||adconity.com^
 ||adconscious.com^
@@ -31954,7 +31954,7 @@ vkcdnservice.appspot.com^
 ||afront.io^
 ||afy11.net^
 ||afyads.com^
-||ahvclick.com^
+||ahv0.com^
 ||aim4media.com^
 ||akavita.com^
 ||aklamator.com^
@@ -31966,7 +31966,7 @@ vkcdnservice.appspot.com^
 ||amateur.cash^
 ||amobee.com^
 ||andbeyond.media^
-||anicli.click^
+||anicli.0^
 ||aniview.com^
 ||anyclip-media.com^
 ||anymedia.lv^
@@ -32072,13 +32072,13 @@ vkcdnservice.appspot.com^
 ||bitcoadz.io^
 ||bitcoinadvertisers.com^
 ||bitcoset.com^
-||bitonclick.com^
+||biton0.com^
 ||bitraffic.com^
 ||bitspush.io^
 ||bittads.com^
 ||bittraffic.io^
 ||bizx.info^
-||bizzclick.com^
+||bizz0.com^
 ||bliink.io^
 ||blogads.com^
 ||blogclans.com^
@@ -32107,7 +32107,7 @@ vkcdnservice.appspot.com^
 ||burjam.com^
 ||burstnet.com^
 ||businesscare.com^
-||businessclick.com^
+||business0.com^
 ||buxept.com^
 ||buxflow.com^
 ||buxp.org^
@@ -32120,7 +32120,7 @@ vkcdnservice.appspot.com^
 ||buzzadexchange.com^
 ||buzzadnetwork.com^
 ||buzzcity.net^
-||buzzonclick.com^
+||buzzon0.com^
 ||buzzoola.com^
 ||buzzparadise.com^
 ||bwinpartypartners.com^
@@ -32136,7 +32136,7 @@ vkcdnservice.appspot.com^
 ||cdnreference.com^
 ||charltonmedia.com^
 ||chitika.com^
-||cibleclick.com^
+||cible0.com^
 ||cinarra.com^
 ||citrusad.com^
 ||city-ads.de^
@@ -32145,20 +32145,20 @@ vkcdnservice.appspot.com^
 ||cleafs.com^
 ||clean-1-clean.club^
 ||cleverads.vn^
-||clickable.com^
-||clickad.pl^
-||clickadilla.com^
-||clickadu.com^
-||clickbet88.com^
-||clickcertain.com^
-||clickdaly.com^
-||clickfuse.com^
-||clickinc.com^
-||clickintext.net^
-||clickmon.co.kr^
-||clickpoint.com^
-||clicksor.com^
-||clicktripz.com^
+||0able.com^
+||0ad.pl^
+||0adilla.com^
+||0adu.com^
+||0bet88.com^
+||0certain.com^
+||0daly.com^
+||0fuse.com^
+||0inc.com^
+||0intext.net^
+||0mon.co.kr^
+||0point.com^
+||0sor.com^
+||0tripz.com^
 ||clixco.in^
 ||clixtrac.com^
 ||clkmg.com^
@@ -32183,7 +32183,7 @@ vkcdnservice.appspot.com^
 ||cookpad-ads.com^
 ||coolerads.com^
 ||coull.com^
-||cpaclickz.com^
+||cpa0z.com^
 ||cpagrip.com^
 ||cpalead.com^
 ||cpalock.com^
@@ -32246,7 +32246,7 @@ vkcdnservice.appspot.com^
 ||easyinline.com^
 ||ebayclassifiedsgroup.com^
 ||ebayobjects.com.au^
-||eclick.vn^
+||e0.vn^
 ||ednplus.com^
 ||egadvertising.com^
 ||egamingonline.com^
@@ -32291,7 +32291,7 @@ vkcdnservice.appspot.com^
 ||fruitkings.com^
 ||gainmoneyfast.com^
 ||gambling-affiliation.com^
-||game-clicks.com^
+||game-0s.com^
 ||gayadnetwork.com^
 ||geozo.com^
 ||germaniavid.com^
@@ -32333,7 +32333,7 @@ vkcdnservice.appspot.com^
 ||increaserev.com^
 ||indianbannerexchange.com^
 ||indianlinkexchange.com^
-||indieclick.com^
+||indie0.com^
 ||indofad.com^
 ||indoleads.com^
 ||industrybrains.com^
@@ -32357,7 +32357,7 @@ vkcdnservice.appspot.com^
 ||intentmedia.net^
 ||interactiveads.ai^
 ||interadv.net^
-||interclick.com^
+||inter0.com^
 ||interesting.cc^
 ||intergi.com^
 ||interpolls.com^
@@ -32484,7 +32484,7 @@ vkcdnservice.appspot.com^
 ||nexac.com^
 ||nexage.com^
 ||nexeps.com^
-||nextclick.pl^
+||next0.pl^
 ||nextmillennium.io^
 ||nextoptim.com^
 ||nitmus.com^
@@ -32563,11 +32563,11 @@ vkcdnservice.appspot.com^
 ||placeiq.com^
 ||playmatic.video^
 ||playtem.com^
-||pointclicktrack.com^
+||point0track.com^
 ||points2shop.com^
 ||polyvalent.co.in^
 ||popmajor.com^
-||poponclick.com^
+||popon0.com^
 ||popundertotal.com^
 ||popunderzone.com^
 ||popupdomination.com^
@@ -32607,7 +32607,7 @@ vkcdnservice.appspot.com^
 ||reactx.com^
 ||readpeak.com^
 ||realbig.media^
-||realclick.co.kr^
+||real0.co.kr^
 ||realhumandeals.com^
 ||realssp.co.kr^
 ||rediads.com^
@@ -32631,7 +32631,7 @@ vkcdnservice.appspot.com^
 ||sbcpower.com^
 ||sbscribeme.com^
 ||scanscout.com^
-||scarlet-clicks.info^
+||scarlet-0s.info^
 ||sceno.ru^
 ||scootloor.com^
 ||scrap.me^
@@ -32673,7 +32673,7 @@ vkcdnservice.appspot.com^
 ||slopeaota.com^
 ||smac-ad.com^
 ||smac-ssp.com^
-||smaclick.com^
+||sma0.com^
 ||smartad.ee^
 ||smartadtags.com^
 ||smartadv.ru^
@@ -32829,7 +32829,7 @@ vkcdnservice.appspot.com^
 ||usemax.de^
 ||usenetjunction.com^
 ||utherverse.com^
-||validclick.com^
+||valid0.com^
 ||valuead.com^
 ||velti.com^
 ||vendexo.com^
@@ -33924,7 +33924,7 @@ vkcdnservice.appspot.com^
 ! This section contains the list of third-party advertising networks domains for mobile devices.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -34489,8 +34489,8 @@ vkcdnservice.appspot.com^
 ||adzmobi.com^
 ||api.fusepowered.com^
 ||api.usebutton.com^
-||appclick.co^
-||appclick.net^
+||app0.co^
+||app0.net^
 ||applifier.com^
 ||applovin.com^
 ||appnext-a.akamaihd.net^
@@ -34596,7 +34596,7 @@ vkcdnservice.appspot.com^
 ||mobclix.com^
 ||mobfox.com^
 ||mobiads.ru^
-||mobile-click.biz^
+||mobile-0.biz^
 ||mobile333.com^
 ||mobilecore.com^
 ||mobiledl.adboe.com^
@@ -34618,7 +34618,7 @@ vkcdnservice.appspot.com^
 ||perf-events.cloud.unity3d.com^
 ||pflexads.com^
 ||phluant.com^
-||pixel.admobclick.com^
+||pixel.admob0.com^
 ||playhaven.com^
 ||plugin.mediavoice.com^
 ||pontiflex.com^
@@ -34676,7 +34676,7 @@ vkcdnservice.appspot.com^
 ||vserv.mobi^
 ||vungle.com^
 ||waiads.com^
-||wap-click.com^
+||wap-0.com^
 ||wapstart.ru^
 ||wbn.su^
 ||west.bidtellect.com^
@@ -34706,7 +34706,7 @@ vkcdnservice.appspot.com^
 ! This section contains the list of third-party tracking networks domains.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||tracker.legitwebsite.com^ (should be in tracking_servers_firstparty.txt)
 !
@@ -34829,7 +34829,7 @@ vkcdnservice.appspot.com^
 ||ad2iction.com^
 ||events.flagship.io^
 ||pixel.barion.com^
-||blueoyster.click^
+||blueoyster.0^
 ||track.dobrnovosti.com^
 ||analytics.elegela.net^
 ||b91.yahoo.co.jp^
@@ -35261,7 +35261,7 @@ vkcdnservice.appspot.com^
 ||gnar.grammarly.com^
 ||analytics.churnzero.net^
 ||trk.reclameaqui.com.br^
-||s.clickiocdn.com^
+||s.0iocdn.com^
 ||i-cmg-amlg-prod.appspot.com^
 ||capture-api.autopilotapp.com^
 ||s.autopilotapp.com^
@@ -35293,7 +35293,7 @@ vkcdnservice.appspot.com^
 ||oremark.com^
 ||cbt.whatcounts.net^
 ||fireworkanalytics.com^
-||clickbrainiacs.com^
+||0brainiacs.com^
 ||wsapi.master.live^
 ||wsapi-global.master.live^
 ||zebestof.com^
@@ -35334,7 +35334,7 @@ vkcdnservice.appspot.com^
 ||pxaction.com^
 ||thequin.ai^
 ||ajur.info^
-||clicks.h.hepsiburada.com^
+||0s.h.hepsiburada.com^
 ||eu.spgo.io^
 ||rcp.evolok.net^
 ||ct2.sarashi.com^
@@ -35551,7 +35551,7 @@ vkcdnservice.appspot.com^
 ||aff.trackinglibrary.prodperfect.com^
 ||stat.ustore.bz^
 ||logbor.com^
-||click-plus.net^
+||0-plus.net^
 ||analytics.contents.by-fw.jp^
 ||appier.net^
 ||depart.trinitymedia.ai^
@@ -35586,7 +35586,7 @@ vkcdnservice.appspot.com^
 ||tag.goadopt.io^
 ||tracker.cauly.co.kr^
 ||tk.mediacategory.com^
-||ck.ncclick.co.kr^
+||ck.nc0.co.kr^
 ||tagmanager.toast.com^
 ||jtracking.lulusoft.com^
 ||traceprof.com^
@@ -35596,7 +35596,7 @@ vkcdnservice.appspot.com^
 ||tracker.metricool.com^
 ||counter.daara.kr^
 ||log22.makeshop.co.kr^
-||piclick.kr^
+||pi0.kr^
 ||log.perfecttitspics.com^
 ||analytics.mbga.jp^
 ||loginside.co.kr^
@@ -35627,7 +35627,7 @@ vkcdnservice.appspot.com^
 ||stat.wioau.com^
 ||wh.giftd.tech^
 ||privatelands.biz^
-||click.vgnett.no^
+||0.vgnett.no^
 ||track-mixer.ru^
 ||dmpprof.com^
 ||pwrlkyotm.com^
@@ -35672,7 +35672,7 @@ vkcdnservice.appspot.com^
 ||csbew.com^
 ||tracker.durasite.net^
 ||growthrx.in^
-||clickcease.com^
+||0cease.com^
 ||logs.juspay.in
 ||zprk.io^
 ||getstat.net^
@@ -35728,7 +35728,7 @@ vkcdnservice.appspot.com^
 ||c.plerdy.com^
 ||tracker.plerdy.com^
 ||wtag.estlier.net^
-||ulclick.ru^
+||ul0.ru^
 ||phoenix-widget.com^
 ||collector.getyourguide.com^
 ||amunx.de^
@@ -35849,13 +35849,13 @@ vkcdnservice.appspot.com^
 ||analytics.datahc.com^
 ||collect.blishtech.co^
 ||votetoda.com^
-||promclickapp.biz^
+||prom0app.biz^
 ||count.nuanyuehanxing.com^
 ||distiltag.com^
 ||deep.bi^
 ||lists-tracking.komando.com^
 ||opentracking.ru^
-||clickanalytics208.com^
+||0analytics208.com^
 ||logs.roku.com^
 ||cdn.driveback.ru^
 ||tms-st.cdn.ngenix.net
@@ -35888,13 +35888,13 @@ vkcdnservice.appspot.com^
 ||profusesupport.com^
 ||logger.pw^
 ||log-ird.outbrain.com^
-||analytics*.clickdimensions.com^
+||analytics*.0dimensions.com^
 ||pngme.ru^
 ||qoopler.ru^
-||s.clicktex.ru^
+||s.0tex.ru^
 ||tracking.lqm.io^
 ||netdeal.com.br^
-||ibclick.stream^
+||ib0.stream^
 ||denakop.com^
 ||trv.upperbooking.com^
 ||trl.upperbooking.com^
@@ -35906,7 +35906,7 @@ vkcdnservice.appspot.com^
 ||mateti.net^
 ||digitru.st^
 ||s-onetag.com^
-||personaclick.com^
+||persona0.com^
 ||counter*.freecounter.ovh^
 ||analytics.logsss.com^
 ||tnative.ru^
@@ -35947,7 +35947,7 @@ vkcdnservice.appspot.com^
 ||adoric.com^
 ||stack-sonar.com^
 ||mindtake.com^
-||leadlab.click^
+||leadlab.0^
 ||artfut.com^
 ||smrtb.com^
 ||tgdaudience.com^
@@ -35990,7 +35990,7 @@ vkcdnservice.appspot.com^
 ||ownpage.fr^
 ||smrtrdrct.com^
 ||rtbanalytics.com^
-||user-clicks.com^
+||user-0s.com^
 ||bluecava.com^
 ||alcmpn.com^
 ||sentifi.com^
@@ -36086,7 +36086,7 @@ vkcdnservice.appspot.com^
 ||77tracking.com^
 ||7bpeople.com^
 ||8020solutions.net^
-||99click.com^
+||990.com^
 ||99counters.com^
 ||99stats.com^
 ||9nl.eu^
@@ -36127,7 +36127,7 @@ vkcdnservice.appspot.com^
 ||adchemy-content.com^
 ||adchemy.com^
 ||adclear.net^
-||adclickstats.net^
+||ad0stats.net^
 ||addfreestats.com^
 ||adelixir.com^
 ||adgreed.com^
@@ -36284,7 +36284,7 @@ vkcdnservice.appspot.com^
 ||bigsauron.ru^
 ||bigstats.net^
 ||bigtracker.com^
-||bionicclick.com^
+||bionic0.com^
 ||bizible.com^
 ||bizo.com^
 ||bizspring.net^
@@ -36387,30 +36387,30 @@ vkcdnservice.appspot.com^
 ||cleananalytics.com^
 ||cleveritics.com^
 ||clevi.com^
-||click-url.com^
-||click4assistance.co.uk^
-||clickable.net^
-||clickaider.com^
-||clickalyzer.com^
-||clickclick.net^
-||clickconversion.net^
-||clickdensity.com^
-||clickening.com^
-||clickforensics.com^
-||clicki.cn^
-||clickmanage.com^
-||clickmap.ch^
-||clickmeter.com^
-||clickpathmedia.com^
-||clickprotector.com^
-||clickreport.com^
-||clicksagent.com^
-||clicksen.se^
-||clickshift.com^
-||clicktale.net^
-||clicktracks.com^
-||clickzs.com^
-||clickzzs.nl^
+||0-url.com^
+||04assistance.co.uk^
+||0able.net^
+||0aider.com^
+||0alyzer.com^
+||00.net^
+||0conversion.net^
+||0density.com^
+||0ening.com^
+||0forensics.com^
+||0i.cn^
+||0manage.com^
+||0map.ch^
+||0meter.com^
+||0pathmedia.com^
+||0protector.com^
+||0report.com^
+||0sagent.com^
+||0sen.se^
+||0shift.com^
+||0tale.net^
+||0tracks.com^
+||0zs.com^
+||0zzs.nl^
 ||clixcount.com^
 ||clixpy.com^
 ||cloud-exploration.com^
@@ -36568,7 +36568,7 @@ vkcdnservice.appspot.com^
 ||divolution.com^
 ||djers.com^
 ||dmanalytics1.com^
-||dmclick.cn^
+||dm0.cn^
 ||dmd53.com^
 ||dmpxs.com^
 ||dmtracker.com^
@@ -36666,7 +36666,7 @@ vkcdnservice.appspot.com^
 ||ewebcounter.com^
 ||exactag.com^
 ||exapxl.de^
-||exclusiveclicks.com^
+||exclusive0s.com^
 ||exelator.com^
 ||exitmonitor.com^
 ||exmarkt.de^
@@ -36790,7 +36790,7 @@ vkcdnservice.appspot.com^
 ||geocompteur.com^
 ||geocontatore.com^
 ||getbackstory.com^
-||getclicky.com^
+||get0y.com^
 ||getconversion.net^
 ||getfreebacklinks.com^
 ||getfreebl.com^
@@ -36898,7 +36898,7 @@ vkcdnservice.appspot.com^
 ||hotlog.ru^
 ||hotrank.com.tw^
 ||hs-analytics.net^
-||humanclick.com^
+||human0.com^
 ||hung.ch^
 ||hunt-leads.com^
 ||hurra.com^
@@ -36915,7 +36915,7 @@ vkcdnservice.appspot.com^
 ||ics0.com^
 ||icstats.nl^
 ||id-visitors.com^
-||ideoclick.com^
+||ideo0.com^
 ||idio.co^
 ||idot.cz^
 ||idtargeting.com^
@@ -36940,7 +36940,7 @@ vkcdnservice.appspot.com^
 ||indicia.com^
 ||individuad.net^
 ||ineedhits.com^
-||inferclick.com^
+||infer0.com^
 ||infinigraph.com^
 ||infinity-tracking.net^
 ||inflectionpointmedia.com^
@@ -37179,7 +37179,7 @@ vkcdnservice.appspot.com^
 ||mkt51.net^
 ||mkt941.com^
 ||mktoresp.com^
-||mlclick.com^
+||ml0.com^
 ||mlno6.com^
 ||mlstat.com^
 ||mm7.net^
@@ -37267,7 +37267,7 @@ vkcdnservice.appspot.com^
 ||netagent.cz^
 ||netapplications.com^
 ||netbiscuits.net^
-||netclickstats.com^
+||net0stats.com^
 ||netcounter.de^
 ||netdebit-counter.de^
 ||netflame.cc^
@@ -37335,7 +37335,7 @@ vkcdnservice.appspot.com^
 ||onlinewebstat.com^
 ||onlinewebstats.com^
 ||opbandit.com^
-||openclick.com^
+||open0.com^
 ||openhit.com^
 ||openinternetexchange.com^
 ||openinternetexchange.net^
@@ -37382,7 +37382,7 @@ vkcdnservice.appspot.com^
 ||pass-1234.com^
 ||pc-agency24.de^
 ||pc1.io^
-||pclicks.com^
+||p0s.com^
 ||pcspeedup.com^
 ||peakcounter.dk^
 ||peerius.com^
@@ -38045,7 +38045,7 @@ vkcdnservice.appspot.com^
 ||web-stat.net^
 ||web-visor.com^
 ||web100kz.com^
-||webclicktracker.com^
+||web0tracker.com^
 ||webcompteur.com^
 ||webcounter.co.za^
 ||webcounter.ws^
@@ -38108,7 +38108,7 @@ vkcdnservice.appspot.com^
 ||whoaremyfriends.net^
 ||whoisonline.net^
 ||whoisvisiting.com^
-||whosclickingwho.com^
+||whos0ingwho.com^
 ||whoseesyou.com^
 ||whoson.com^
 ||wikia-beacon.com^
@@ -39336,7 +39336,7 @@ vkcdnservice.appspot.com^
 ! This section contains the list of tracking networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||tracker.0click.net^
+! Good: ||tracker.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: host rules with partial blocking (for example $domain, content type and redirect modifiers)
 !
@@ -40003,7 +40003,7 @@ vkcdnservice.appspot.com^
 ||beacon.ehow.com^
 ||beacon.gu-web.net^
 ||beacon.gutefrage.net^
-||beacon.indieclicktv.com^
+||beacon.indie0tv.com^
 ||beacon.itmedia.jp^
 ||beacon.kmi-us.com^
 ||beacon.lycos.com^
@@ -40059,12 +40059,12 @@ vkcdnservice.appspot.com^
 ||cl.canva.com^
 ||clc.stackoverflow.com^
 ||clck.yandex.com^
-||click.jasmin.com^
-||click.udimg.com^
-||click2.cafepress.com^
-||clicks.dealer.com^
-||clicks.wawlabs.com^
-||clickstream.cresendo.net^
+||0.jasmin.com^
+||0.udimg.com^
+||02.cafepress.com^
+||0s.dealer.com^
+||0s.wawlabs.com^
+||0stream.cresendo.net^
 ||client-event-reporter.twitch.tv^
 ||clientlog.midomi.com^
 ||clk.onet.pl^
@@ -40275,7 +40275,7 @@ vkcdnservice.appspot.com^
 ||ea.vente-unique.ch^
 ||ea.vente-unique.com^
 ||ea.warnerbros.fr^
-||eclick.baidu.com^
+||e0.baidu.com^
 ||ef.futuroscope.com^
 ||ems.youku.com^
 ||engagefront.theweathernetwork.com^
@@ -40639,7 +40639,7 @@ vkcdnservice.appspot.com^
 ||om.cbsi.com^
 ||om.dowjoneson.com^
 ||omapi.fangraphs.com^
-||onclickpredictiv.com^
+||on0predictiv.com^
 ||ophan.theguardian.com^
 ||p-events.ivideosmart.com^
 ||p-log.ykimg.com^
@@ -40908,7 +40908,7 @@ vkcdnservice.appspot.com^
 ||stat.5-tv.ru^
 ||stat.adguard.com^
 ||stat.alibaba.com^
-||stat.clickfrog.ru^
+||stat.0frog.ru^
 ||stat.dealtime.com^
 ||stat.download.xunlei.com^
 ||stat.eagleplatform.com^
@@ -41109,7 +41109,7 @@ vkcdnservice.appspot.com^
 ||track.berliner-kurier.de^
 ||track.bizjournals.com^
 ||track.briskfile.com^
-||track.buybox.click^
+||track.buybox.0^
 ||track.catalogs.com^
 ||track.cbs.com^
 ||track.clkfly.com^
@@ -41320,8 +41320,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||afd.baidu.com^
 ||wkctj.baidu.com^
 ||jpaasne.e.shifen.com^
-||caclick.baidu.com^
-||wkclick.baidu.com^
+||ca0.baidu.com^
+||wk0.baidu.com^
 !
 ! Tiktok app
 ||frontier.musical.ly^
@@ -41692,8 +41692,8 @@ inapps.appsflyersdk.com^
 ||log.easy39.com^
 ||log.appbundledownload.com^
 ||log.down61.com^
-||click.oneplus.com^
-||click.oneplus.cn^
+||0.oneplus.com^
+||0.oneplus.cn^
 ||mapi-log.qoo*.jp^
 ||events.api.red.wemesh.ca^
 ||logend.cookpad.com^
@@ -41704,7 +41704,7 @@ inapps.appsflyersdk.com^
 ||msga.cupid.iqiyi.com^
 ||ndct-data.video.iqiyi.com^
 ||ibd-as-api.iq.com^
-||statclick.nate.com^
+||stat0.nate.com^
 ||aff-report.lbesecapi.com^
 ||aff-policy.lbesecapi.com^
 ||psi.lbesecapi.com^
@@ -42074,7 +42074,7 @@ inapps.appsflyersdk.com^
 ||cityrobotflower.com^
 ||ckies.net^
 ||clearbitscripts.com^
-||click360.io^
+||0360.io^
 ||cliquelead.com^
 ||cloudwp.io^
 ||clrt.ai^
@@ -42165,7 +42165,7 @@ inapps.appsflyersdk.com^
 ||intellimizeio.com^
 ||irs01.com^
 ||jams.wiki^
-||jcpclick.com^
+||jcp0.com^
 ||jubbie.de^
 ||k5a.io^
 ||kspotson.de^
@@ -42203,7 +42203,7 @@ inapps.appsflyersdk.com^
 ||nimbleswan.io^
 ||nmgassets.com^
 ||nmgplatform.com^
-||noeyeon.click^
+||noeyeon.0^
 ||noeyeon.com^
 ||notifpush.com^
 ||nxakpj4ac8gkd53.info^
@@ -42263,7 +42263,7 @@ inapps.appsflyersdk.com^
 ||tkrconnector.com^
 ||tncid.app^
 ||track-selectmedia.com^
-||trackclicks.info^
+||track0s.info^
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
@@ -42341,7 +42341,7 @@ inapps.appsflyersdk.com^
 ||affilimate.io^
 ||affilired.com^
 ||afftrack.pro^
-||afterclick.co^
+||after0.co^
 ||agentanalytics.com^
 ||agilesrv.com^
 ||airserve.net^
@@ -42440,11 +42440,11 @@ inapps.appsflyersdk.com^
 ||cityadstrack.com^
 ||clarium.io^
 ||clearbitjs.com^
-||clickferret.com^
-||clickguard.com^
-||clickguardian.co.uk^
-||clicksgate.com^
-||clickx.io^
+||0ferret.com^
+||0guard.com^
+||0guardian.co.uk^
+||0sgate.com^
+||0x.io^
 ||clientgear.com^
 ||clipcentric.com^
 ||clixgalore.com^
@@ -42457,7 +42457,7 @@ inapps.appsflyersdk.com^
 ||cognitivlabs.com^
 ||cohesionapps.com^
 ||coll2onf.com^
-||collecting.click^
+||collecting.0^
 ||compteur.fr^
 ||conductrics.net^
 ||conduze.com^
@@ -42465,7 +42465,7 @@ inapps.appsflyersdk.com^
 ||content-square.net^
 ||conversionfly.com^
 ||convertcart.com^
-||crazyclickstats.com^
+||crazy0stats.com^
 ||crtx.info^
 ||cuberoot.co^
 ||customerlabs.co^
@@ -42511,7 +42511,7 @@ inapps.appsflyersdk.com^
 ||eggplant.cloud^
 ||elastx.net^
 ||eluxer.net^
-||engageclick.com^
+||engage0.com^
 ||engagemaster.com^
 ||engagio.com^
 ||ensighten.com^
@@ -42638,7 +42638,7 @@ inapps.appsflyersdk.com^
 ||junta.net^
 ||k3node.com^
 ||kameleoon.eu^
-||kaminari.click^
+||kaminari.0^
 ||kaxsdc.com^
 ||keytiles.com^
 ||kickfire.com^
@@ -42648,7 +42648,7 @@ inapps.appsflyersdk.com^
 ||knotch-cdn.com^
 ||koddi.com^
 ||koji-analytics.com^
-||kokos.click^
+||kokos.0^
 ||konduit.me^
 ||l2.io^
 ||leadberry.com^
@@ -42813,7 +42813,7 @@ inapps.appsflyersdk.com^
 ||quitsnap-blue.com^
 ||radiateb2b.com^
 ||rampanel.com^
-||ravelin.click^
+||ravelin.0^
 ||rdcdn.com^
 ||reachlocalservices.com^
 ||reallyfreegeoip.org^
@@ -42851,7 +42851,7 @@ inapps.appsflyersdk.com^
 ||rtox.net^
 ||rumpelstiltskinhead.com^
 ||s7target.ru^
-||safe-click.net^
+||safe-0.net^
 ||safeanalytics.net^
 ||salesviewer.com^
 ||salesviewer.org^
@@ -43141,15 +43141,15 @@ inapps.appsflyersdk.com^
 ||webpu.sh^
 ||webpushr.com^
 ||webpushs.com^
-||whiteclick.biz^
+||white0.biz^
 ||wonderpush.com^
-||wwclickserv.club^
-||wwopenclick.space^
+||ww0serv.club^
+||wwopen0.space^
 ||xtremepush.com^
 ! Fingerprinting
 ||citrusad.net^
-||clickguardian.app^
-||clickyab.com^
+||0guardian.app^
+||0yab.com^
 ||fpjscdn.net^
 ||guoshipartners.com^
 ||hostpush.info^
@@ -43962,12 +43962,12 @@ inapps.appsflyersdk.com^
 ||cimage.adobe.com^
 ||ck.connatix.com^
 ||clevertap-prod.com^
-||click.appinthestore.com^
-||click360v2-ingest.azurewebsites.net^
-||clicks.tyuwq.com^
-||clicktalecdn.sslcs.cdngc.net^
-||clickthru.lefbc.com^
-||clicktracker.iscan.nl^
+||0.appinthestore.com^
+||0360v2-ingest.azurewebsites.net^
+||0s.tyuwq.com^
+||0talecdn.sslcs.cdngc.net^
+||0thru.lefbc.com^
+||0tracker.iscan.nl^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
 ||client.tahono.com^
@@ -44402,7 +44402,7 @@ inapps.appsflyersdk.com^
 ||t.sharethis.com^
 ||t.smile.eu^
 ||t.spot.im^
-||t2.t2b.click^
+||t2.t2b.0^
 ||tag-manager.playbuzz.com^
 ||tag.atom.gamedistribution.com^
 ||tag.aumago.com^
@@ -44704,7 +44704,7 @@ inapps.appsflyersdk.com^
 ||belboon.de^
 ||bf-tools.net^
 ||blacktri.com^
-||businessclick.ch^
+||business0.ch^
 ||content-garden.com^
 ||contiamo.com^
 ||dcmn.io^
@@ -44902,7 +44902,7 @@ inapps.appsflyersdk.com^
 ||d-markets.net^
 ||d2-apps.net^
 ||deteql.net^
-||e-click.jp^
+||e-0.jp^
 ||ebis.ne.jp^
 ||ec-optimizer.com^
 ||enhance.co.jp^
@@ -44956,7 +44956,7 @@ inapps.appsflyersdk.com^
 ! Polish
 ||adschoom.com^
 ||caanalytics.com^
-||clickmatic.pl^
+||0matic.pl^
 ||conversion.pl^
 ||conversionlabs.net.pl^
 ||dmdi.pl^
@@ -45007,7 +45007,7 @@ inapps.appsflyersdk.com^
 ||e-kuzbass.ru^
 ||efatik.me^
 ||gdeslon.ru^
-||get4click.ru^
+||get40.ru^
 ||gnezdo.ru^
 ||idntfy.ru^
 ||imrk.net^
@@ -45020,7 +45020,7 @@ inapps.appsflyersdk.com^
 ||mediatoday.ru^
 ||mobtop.ru^
 ||netlog.ru^
-||otclick-adv.ru^
+||ot0-adv.ru^
 ||retag.xyz^
 ||rnet.plus^
 ||roistat.com^
@@ -45125,7 +45125,7 @@ inapps.appsflyersdk.com^
 ||statistik.motorpresse.de^
 ||statistik.simaja.de^
 ||stats.blogoscoop.net^
-||stats.clickforknowledge.com^
+||stats.0forknowledge.com^
 ||stats.digital-natives.de^
 ||stats.frankfurterneuepresse.de^
 ||stats.united-domains.de^
@@ -45188,7 +45188,7 @@ inapps.appsflyersdk.com^
 ||beacon.sina.com.cn^
 ||beaconcdn.qq.com^
 ||c.holmesmind.com^
-||click.bokecc.com^
+||0.bokecc.com^
 ||cms.grandcloud.cn^
 ||collector2c.zhihuishu.com^
 ||d17m68fovwmgxj.cloudfront.net^
@@ -45269,7 +45269,7 @@ inapps.appsflyersdk.com^
 ||analytics2-3-meride-tv.akamaized.net^
 ||analytics2-meride-tv.akamaized.net^
 ||audit.shaa.it^
-||click.kataweb.it^
+||0.kataweb.it^
 ||cnt.iol.it^
 ||dmpcdn.el-mundo.net^
 ||limone.iltrovatore.it^
@@ -45438,7 +45438,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -45454,7 +45454,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of third-party advertising networks domains.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -45547,7 +45547,7 @@ inapps.appsflyersdk.com^
 ||diximedia.es^
 ||epartner.es^
 ||fgcash.com.br^
-||foneclick.com.br^
+||fone0.com.br^
 ||hotwords.com.br^
 ||hotwords.com.mx^
 ||hotwords.es^
@@ -45577,7 +45577,7 @@ inapps.appsflyersdk.com^
 ||publipagos.com^
 ||refblock.com^
 ||seomaster.com.br^
-||softclick.com.br^
+||soft0.com.br^
 ||solution911.com^
 ||spublicidad.net^
 ||swi-adserver.com^
@@ -45596,7 +45596,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of third-party advertising networks domains.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -45605,7 +45605,7 @@ inapps.appsflyersdk.com^
 ||all-audio.pro^
 ||rbfive.bid^
 ||nwhoxwpuj6.com^
-||trackclicksplz.site^
+||track0splz.site^
 ||b.we-are-anon.com^
 ||fsm-files.ru^
 ||sofq.site^
@@ -45623,7 +45623,7 @@ inapps.appsflyersdk.com^
 ||cchdbond.com^
 ||hhooyivpxq.com^
 ||mrgreekroad.com^
-||clicksfordsm.com^
+||0sfordsm.com^
 ||ynlfpyeifc.com^
 ||videoprodavec.ru^
 ||doprodavec.ru^
@@ -45648,8 +45648,8 @@ inapps.appsflyersdk.com^
 ||burningpushing.info^
 ||riamiavid.com^
 ||octolinkcom.me^
-||clickatdcode.com^
-||aclicktds.org^
+||0atdcode.com^
+||a0tds.org^
 ||top-js-metrics.top.my.ua^
 ||cdn.umh.ua^
 ||adversting.riamedia.com.ua^
@@ -45679,7 +45679,7 @@ inapps.appsflyersdk.com^
 ||new.zalizo.pp.ua^
 ||news.trendovo.com.ua^
 ||newsfeed.net.ua^
-||nextclick.com.ua^
+||next0.com.ua^
 ||obmen.starstudio.org.ua^
 ||one.lg.ua^
 ||orbit*.lun.ua^
@@ -45715,7 +45715,7 @@ inapps.appsflyersdk.com^
 ||ferdarius.com^
 ||gbf77po03m.com^
 ||cau1aighae.com^
-||bc-click.net^
+||bc-0.net^
 ||bc-news.net^
 ||cnb.cnews.ru^
 ||api-fangarma.utyug.media^
@@ -45741,7 +45741,7 @@ inapps.appsflyersdk.com^
 ||fiobio.ru^
 ||forcelebrb.online^
 ||kejasosy.com^
-||cdn.neon.click^
+||cdn.neon.0^
 ||news.truth.delivery^
 ||swfly744.info^
 ||gdddaiiiidiceffcadi.ru^
@@ -45749,7 +45749,7 @@ inapps.appsflyersdk.com^
 ||evlsn.com^
 ||gbgijiiiabgebdjiadh.ru^
 ||native-cdn.com^
-||batecrowle.click^
+||batecrowle.0^
 ||setka.media^
 ||fgceajcbjihgiacceade.ru^
 ||gibevay.ru^
@@ -46066,7 +46066,7 @@ inapps.appsflyersdk.com^
 ||aqjlgsv7cvkzocg.ru^
 ||twtmle.com^
 ||kcycpp.com^
-||2xclick.ru^
+||2x0.ru^
 ||bgjiihhebcbjhfdaiba.ru^
 ||tta3w6e98cka.ru^
 ||alli-ti-hunter.com^
@@ -46287,7 +46287,7 @@ inapps.appsflyersdk.com^
 ||nklrfqgz.com^
 ||qerusgreyt.com^
 ||bukolii.ru^
-||west.click^
+||west.0^
 ||traf2me.ru^
 ||vifzod.com^
 ||qbhyczr5hw.ru^
@@ -46407,7 +46407,7 @@ inapps.appsflyersdk.com^
 ||helvetinus.com^
 ||basenews7.com^
 ||bestdealfor1.life^
-||click.zmctrack.net^
+||0.zmctrack.net^
 ||goodcode.me^
 ||3mfm7jef91.ru^
 ||mahidevrat.com^
@@ -46449,7 +46449,7 @@ inapps.appsflyersdk.com^
 ||ssdbkv4qtq.xyz^
 ||jajnhd.com^
 ||dcwacl.com^
-||clickbaza.com^
+||0baza.com^
 ||debitcrebit669.com^
 ||bergfi.com^
 ||vhajaja.pro^
@@ -46527,7 +46527,7 @@ inapps.appsflyersdk.com^
 ||frsuli.com^
 ||info.invistionik.ru^
 ||rgqxbf.com^
-||ogclick.com^
+||og0.com^
 ||1klink.ru^
 ||apucdt.com^
 ||ortermodown.ru^
@@ -46671,7 +46671,7 @@ inapps.appsflyersdk.com^
 ||ts-ads.icu^
 ||parnuxi.biz^
 ||bwbw2kje848hsmla.ru^
-||clicks-cloud.ru^
+||0s-cloud.ru^
 ||a6lxbeui.ru^
 ||pirt.pro^
 ||frolvid.ru^
@@ -46760,7 +46760,7 @@ inapps.appsflyersdk.com^
 ||3mtr.ru^
 ||3under.ru^
 ||468.vologdainfo.ru^
-||4allclick.ru^
+||4all0.ru^
 ||4smi.ru^
 ||61861486484.ru^
 ||69m.info^
@@ -46894,7 +46894,7 @@ inapps.appsflyersdk.com^
 ||advanter.ru^
 ||advbroker.ru^
 ||advcache.ru^
-||advclicks.net^
+||adv0s.net^
 ||advcoder.ru^
 ||advdn.ru^
 ||adveasy.ru^
@@ -47091,7 +47091,7 @@ inapps.appsflyersdk.com^
 ||bgrndi.com
 ||bidtraffic.ru^
 ||bigbord.net^
-||bigclick.me^
+||big0.me^
 ||bigleads.ru^
 ||bin40.com^
 ||bing0.ru^
@@ -47117,7 +47117,7 @@ inapps.appsflyersdk.com^
 ||bobi-mobi.info^
 ||bobrilla.com^
 ||bodaybo.net^
-||bodyclick.net^
+||body0.net^
 ||bodykaa.ru^
 ||bokroet.com^
 ||bold-in.ru^
@@ -47209,18 +47209,18 @@ inapps.appsflyersdk.com^
 ||clclcl.ru^
 ||cleen.ru^
 ||clhko.top^
-||click-da-click.com^
-||click.ad1.ru^
-||click2sell.eu^
-||clickads.name^
-||clickandjoinyourgirl.com^
-||clickbux.ru^
-||clickcashmoney.com^
-||clickhere.ru^
-||clickov.com^
-||clickscapture.com^
-||clicktoclick.ru^
-||clickvip.ru
+||0-da-0.com^
+||0.ad1.ru^
+||02sell.eu^
+||0ads.name^
+||0andjoinyourgirl.com^
+||0bux.ru^
+||0cashmoney.com^
+||0here.ru^
+||0ov.com^
+||0scapture.com^
+||0to0.ru^
+||0vip.ru
 ||clme.biz^
 ||clvw.net^
 ||cmix.org^
@@ -47488,8 +47488,8 @@ inapps.appsflyersdk.com^
 ||gddrio.com^
 ||geotraff.com^
 ||get-ads.ru^
-||get-click.net^
-||get-click.ru^
+||get-0.net^
+||get-0.ru^
 ||get.promofor.me^
 ||get35.com^
 ||getb.7ya.ru^
@@ -47679,7 +47679,7 @@ inapps.appsflyersdk.com^
 ||irdanen.ru^
 ||iredirr.com^
 ||irleti.com^
-||islamclick.ru^
+||islam0.ru^
 ||iso100.ru^
 ||isonlynews.net^
 ||ispeakvideo.ru^
@@ -47791,7 +47791,7 @@ inapps.appsflyersdk.com^
 ||lactotof.ru^
 ||ladyads.ru^
 ||ladycash.ru^
-||ladyclicks.ru^
+||lady0s.ru^
 ||ladypay.ru^
 ||ladyshopping.ru^
 ||ladyya.ru^
@@ -48093,7 +48093,7 @@ inapps.appsflyersdk.com^
 ||newsteaser.ru^
 ||newstizer.ru^
 ||newsvidnews.info^
-||nextclick.com.ru^
+||next0.com.ru^
 ||nextgame.ru^
 ||neyrvru.wmbgc.xyz^
 ||ngads.com^
@@ -48136,7 +48136,7 @@ inapps.appsflyersdk.com^
 ||obovsemonline.ru^
 ||obsudam.ru^
 ||ochze.com^
-||octoclick.net^
+||octo0.net^
 ||odinkod.ru^
 ||odnobi.ru^
 ||odtoxup.ru^
@@ -48255,7 +48255,7 @@ inapps.appsflyersdk.com^
 ||popinads.com^
 ||poptraf.
 ||popunder.
-||popupclick.
+||popup0.
 ||popups.ru^
 ||popuptraf.
 ||pornin.ru^
@@ -48356,7 +48356,7 @@ inapps.appsflyersdk.com^
 ||rebill.me
 ||rec3re23.com^
 ||recrinsit.ru^
-||redclick.ru^
+||red0.ru^
 ||redexchange.net^
 ||redflu.ru^
 ||redsquare.rambler.ru^
@@ -48414,7 +48414,7 @@ inapps.appsflyersdk.com^
 ||rsuuc.com^
 ||rt-ns.ru^
 ||rtb-media.ru^
-||rtbclick.net^
+||rtb0.net^
 ||rtbinternet.com^
 ||rtbtraf.com^
 ||rtbweb.com^
@@ -48429,7 +48429,7 @@ inapps.appsflyersdk.com^
 ||rushkolnik.ru^
 ||rusrestbest.
 ||russian-cuties.info^
-||rustds.click^
+||rustds.0^
 ||rustiz.ru^
 ||rustizer.com^
 ||rustrackers.ru^
@@ -48453,7 +48453,7 @@ inapps.appsflyersdk.com^
 ||s1venus.com^
 ||s1vesta.com^
 ||s2normal.com^
-||s37.click^
+||s37.0^
 ||sad2tizer.ru^
 ||saferedd.com^
 ||saferedirrect.com^
@@ -48462,7 +48462,7 @@ inapps.appsflyersdk.com^
 ||sandensi.ru^
 ||sapmedia.ru^
 ||sasisa.ru^
-||savclick.ru^
+||sav0.ru^
 ||sb-money.ru^
 ||scafer.ru^
 ||scarpbooking.ru^
@@ -48470,7 +48470,7 @@ inapps.appsflyersdk.com^
 ||sealine-pfuoxcbgd.netdna-ssl.com^
 ||searchlinker.ru^
 ||searchtds.ru^
-||seclick.ru^
+||se0.ru^
 ||securee.ru^
 ||sedorobma.ru^
 ||seedr.com^
@@ -48566,7 +48566,7 @@ inapps.appsflyersdk.com^
 ||standadv.com^
 ||start.fotostrana.ru^
 ||startscript.ru^
-||static.clickscloud.net^
+||static.0scloud.net^
 ||static.prototypes.ru^
 ||static.terrhq.ru^
 ||statistik.duplanet.tk^
@@ -48645,7 +48645,7 @@ inapps.appsflyersdk.com^
 ||testiada.ru^
 ||testsbox.ru^
 ||text-ali.ru^
-||texto.click^
+||texto.0^
 ||textun.ru^
 ||tg.mybb.ru^
 ||th700.com^
@@ -48786,8 +48786,8 @@ inapps.appsflyersdk.com^
 ||ultrapay.net^
 ||umyetor.ru^
 ||unads.ru^
-||under-click.
-||underclick.
+||under-0.
+||under0.
 ||underdone.ru^
 ||undere.com^
 ||undleftranver.ru^
@@ -48797,7 +48797,7 @@ inapps.appsflyersdk.com^
 ||unscrewing.ru^
 ||untily.com^
 ||upcash.ru^
-||upclick.ru^
+||up0.ru^
 ||uppro.ru^
 ||upxip.xyz^
 ||uqfot.com^
@@ -48814,7 +48814,7 @@ inapps.appsflyersdk.com^
 ||us3mnavice.ru^
 ||us4hnicser.ru^
 ||us5fzonaco.ru^
-||userclick.su^
+||user0.su^
 ||usr.trava.io^
 ||usstero.com^
 ||uuaoy.com^
@@ -48834,7 +48834,7 @@ inapps.appsflyersdk.com^
 ||varsloqt.name^
 ||vatafapac.ru^
 ||vatizon.com^
-||vclicks.net^
+||v0s.net^
 ||vcslotoplay.com^
 ||vdwlf.net^
 ||vedety.ru^
@@ -48862,7 +48862,7 @@ inapps.appsflyersdk.com^
 ||video1002.com^
 ||video1132.com^
 ||videocap.org^
-||videoclick.
+||video0.
 ||videoclik.
 ||videofan.ru^
 ||videoframe.blue^
@@ -48963,7 +48963,7 @@ inapps.appsflyersdk.com^
 ||wm-panel.com^
 ||wm.rehdd.ru^
 ||wmcasher.ru^
-||wmclickz.ru^
+||wm0z.ru^
 ||wmirk.ru^
 ||wmlink.ru^
 ||wmrok.com^
@@ -48972,10 +48972,10 @@ inapps.appsflyersdk.com^
 ||wofri.uihdlx.xyz^
 ||wolist.ru^
 ||wom8day.ru^
-||womanclick.ru^
+||woman0.ru^
 ||womans-history.ru^
 ||womenchop.com^
-||womenclick.ru^
+||women0.ru^
 ||womens-insider.info^
 ||workon.ru^
 ||world-2012.info^
@@ -48986,7 +48986,7 @@ inapps.appsflyersdk.com^
 ||wshosting.ru^
 ||wtoredir.com^
 ||wvzhj.com^
-||wwclickgo.com^
+||ww0go.com^
 ||www.milawka.com^
 ||www0.xyz^
 ||wwwomen.ru^
@@ -49055,7 +49055,7 @@ inapps.appsflyersdk.com^
 ||zatexta.com^
 ||zboac.com^
 ||zcl-js.com^
-||zclick.pro^
+||z0.pro^
 ||zdenochary.com^
 ||zdorovmagazine.ru^
 ||zdrawnews.ru^
@@ -49108,7 +49108,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -49121,7 +49121,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -49303,7 +49303,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -49376,7 +49376,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of third-party advertising networks domains.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -49501,10 +49501,10 @@ inapps.appsflyersdk.com^
 ||bwtsrv.com^
 ||cdn.klasseo.com^
 ||cdn.marjmedya.com^
-||cdn.smartclick.io^
+||cdn.smart0.io^
 ||chaicdn.tk^
 ||citireklam.com^
-||clickmerkez.com^
+||0merkez.com^
 ||cntadvertising.com^
 ||coderturk.com^
 ||d1d8vn0fpluuz7.cloudfront.net^
@@ -49646,7 +49646,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -49718,7 +49718,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of third-party advertising networks domains. In that case domain should be added to the common rules.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -49747,7 +49747,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -49794,7 +49794,7 @@ inapps.appsflyersdk.com^
 ||presco.ai^
 ||affiliate.casino-wonder.com^
 ||affiliate.miracle-miracle.com^
-||samuraiclick.com^
+||samurai0.com^
 ||lvtag.com^
 ||sexpixbox.com^
 ||ads.contents.fc2.com^
@@ -49842,7 +49842,7 @@ inapps.appsflyersdk.com^
 ||geotg.jp^
 ||link-ag.net^
 ||js.mulan.cloud^
-||click-count.info^
+||0-count.info^
 ||andhub.jp^
 ||cross-a.net^
 ||tracer.jp^
@@ -49876,7 +49876,7 @@ inapps.appsflyersdk.com^
 ||world-ad.jp^
 ||devo.jp^
 ||ad.ddo.jp^
-||blogroll.click^
+||blogroll.0^
 ||js.winc-ad.com^
 ||affil.jp^
 ||reemo-ad.jp^
@@ -49923,7 +49923,7 @@ inapps.appsflyersdk.com^
 ||r-ad.linkshare.jp^
 ||townlife-aff.com^
 ||lamp-shade.net^
-||neofield.click^
+||neofield.0^
 ||r-ad.ne.jp^
 ||spreadlink.net^
 ||woomy.me^
@@ -49977,8 +49977,8 @@ inapps.appsflyersdk.com^
 ||addeluxe.jp^
 ||adfurikun.jp^
 ||apserver.net^
-||clickmedias.info^
-||0click.ne.jp^
+||0medias.info^
+||00.ne.jp^
 ||j-a-net.jp^
 ||liveads.jp^
 ||maio.jp^
@@ -49993,7 +49993,7 @@ inapps.appsflyersdk.com^
 ||speead.jp^
 ||textad.net^
 ||trafficstars.com^
-||valueclick.jp^
+||value0.jp^
 ||yicha.jp^
 ||ad.api.yyapi.net^
 ||ad-move.jp^
@@ -50007,7 +50007,7 @@ inapps.appsflyersdk.com^
 ||arms.livedoor.net^
 ||assoc-amazon.jp^
 ||ax.xrea.com^
-||b-click.net^
+||b-0.net^
 ||colossal.jp^
 ||cpro.baidu.com^
 ||download.jword.jp^
@@ -50027,7 +50027,7 @@ inapps.appsflyersdk.com^
 ||search.jword.jp^
 ||seoparts.com^
 ||srv2.trafficgate.net^
-||trustclick.ne.jp^
+||trust0.ne.jp^
 ||tumabeni.com^
 ||webantenna.info^
 ||widget-view.dmm.co.jp^
@@ -50058,7 +50058,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -50088,7 +50088,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of third-party advertising networks domains.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -50125,7 +50125,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of third-party advertising networks domains.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -50244,7 +50244,7 @@ inapps.appsflyersdk.com^
 ||xg.hbcygs518.com^
 ||pxx.tnklrs.cn^
 ||ad.kshuiz.top^
-||click.xjfatm.top^
+||0.xjfatm.top^
 ||j.zlszw.com^
 ||bbk5921.yncjsc.cn^
 ||cdxyb.cn^
@@ -50468,7 +50468,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -50491,7 +50491,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of third-party advertising networks domains.
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 !
-! Good: ||0click.net^$third-party
+! Good: ||00.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -50509,7 +50509,7 @@ inapps.appsflyersdk.com^
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
 ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
 !
-! Good: ||ad.0click.net^
+! Good: ||ad.00.net^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
@@ -50750,7 +50750,7 @@ inapps.appsflyersdk.com^
 ||onlymega.com^
 ||paidlinkz.net^
 ||paidsolution.de^
-||payclick.it^
+||pay0.it^
 ||performance-netzwerk.de^
 ||planetactive.com^
 ||playamedia.com^
@@ -50852,7 +50852,7 @@ inapps.appsflyersdk.com^
 ||accesslnk.com^
 ||ad.spreaker.com^
 ||adcell.io^
-||adclick.se^
+||ad0.se^
 ||addrevenue.io^
 ||addy.expressen.se^
 ||adeprimo.se^
@@ -51093,7 +51093,7 @@ inapps.appsflyersdk.com^
 ||leadconnect.ipmaxi.se^
 ||leadenhancer.com^
 ||legero.com.se^
-||leiki-0click-proxy.appspot.com^
+||leiki-00-proxy.appspot.com^
 ||levaochbo.compricer.se^
 ||libring.com^
 ||live.demand.supply^
@@ -51180,7 +51180,7 @@ inapps.appsflyersdk.com^
 ||r.existenz.se^
 ||rabattcoop.com^
 ||recirculation.spot.im^
-||record.findtrustclicks.com^
+||record.findtrust0s.com^
 ||reeboksverige.com.se^
 ||regstat.se^
 ||reklam.6x.se^
@@ -51481,9 +51481,9 @@ inapps.appsflyersdk.com^
 ||btsaffiliations.com^
 ||casino-sicuro.it^
 ||clacson24.com^
-||clickadv.it^
-||clickcount.pw^
-||clickpoint.it^
+||0adv.it^
+||0count.pw^
+||0point.it^
 ||codesour.com^
 ||consigli.it^
 ||coreg-feed.com^
@@ -51509,7 +51509,7 @@ inapps.appsflyersdk.com^
 ||mondoecommerce.it^
 ||mycookies.it^
 ||netszex.com^
-||newclick.com^
+||new0.com^
 ||noddus.com^
 ||novadv.com^
 ||open-up.it^
@@ -51526,7 +51526,7 @@ inapps.appsflyersdk.com^
 ||prontocampaign.com^
 ||publy.net^
 ||pushly.it^
-||raddoppia-bitcoin.click^
+||raddoppia-bitcoin.0^
 ||raddoppia-bitcoin.pro^
 ||radxcomm.com^
 ||rcsadv.it^
@@ -51587,7 +51587,7 @@ inapps.appsflyersdk.com^
 ||adstarsmedia.co.id^
 ||adtimeselaras.com^
 ||alertpay.com^
-||ampclicks.com^
+||amp0s.com^
 ||anekaiklan.com^
 ||baliadv.com^
 ||bellaads.com^
@@ -51596,7 +51596,7 @@ inapps.appsflyersdk.com^
 ||cdnasiaclub.com^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
-||clickmedia.co.id^
+||0media.co.id^
 ||compulsivehemisphere.com^
 ||csf.uzone.id^
 ||d01.notifa.info^
@@ -51690,7 +51690,7 @@ inapps.appsflyersdk.com^
 ||sumberiklan.com^
 ||suryaiklan.com^
 ||teliad.com^
-||theclickers.net^
+||the0ers.net^
 ||tinggalklik.com^
 ||topklik.com^
 ||topsurfer.com^
@@ -51807,7 +51807,7 @@ inapps.appsflyersdk.com^
 ||trackdan.com^
 ||tracker.beritagar.id^
 ||tracker.lazada.co.id^
-||trackingclick.net^
+||tracking0.net^
 ||traffic-monetizer.com^
 ||trk.cpaoptimizer.com^
 
@@ -51973,7 +51973,7 @@ inapps.appsflyersdk.com^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
-||mclick.mobi^
+||m0.mobi^
 ||mda.zadn.vn^
 ||me.zedcdn.me^
 ||media-ads.zaloapp.com^
@@ -52305,8 +52305,8 @@ inapps.appsflyersdk.com^
 ||cdn.api-connect.io^
 ||cdn2.cache.vn^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
-||click.vieon.vn^
-||clicker.chiaki.vn^
+||0.vieon.vn^
+||0er.chiaki.vn^
 ||clientinfo.phimmoizz.net^
 ||clix.vn^
 ||collect.ovp.vn^
@@ -52323,7 +52323,7 @@ inapps.appsflyersdk.com^
 ||crmx.eqvn.net^
 ||cskh-hcm.fpt.edu.vn^
 ||cskh.onlinecrm.vn^
-||csmads.gameclick.vn^
+||csmads.game0.vn^
 ||delecpuzz.com^
 ||demopage.me^
 ||digi.vinut.com.vn^
@@ -52475,7 +52475,7 @@ inapps.appsflyersdk.com^
 ||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
-||realclick.vn^
+||real0.vn^
 ||report.mediahub.vn^
 ||report.vnay.vn^
 ||report2.mediahub.vn^
@@ -53953,7 +53953,7 @@ inapps.appsflyersdk.com^
 ||dongya.org^
 ||dosre12.xyz^
 ||0chen.online^
-||0clicks.biz^
+||00s.biz^
 ||dozwjl.xyz^
 ||dpaic.xyz^
 ||dpbgnf.xyz^
@@ -57011,7 +57011,7 @@ inapps.appsflyersdk.com^
 ||ads-union.jd.com^
 ||ads.sohu.com^
 ||adsc.wasu.tv^
-||adsclick.yx.js.cn^
+||ads0.yx.js.cn^
 ||adshows.21cn.com^
 ||adv-sv-show.focus.cn^
 ||afp.chinanews.com^
@@ -57055,7 +57055,7 @@ inapps.appsflyersdk.com^
 ||delivery.wasu.cn^
 ||djs.baomihua.com^
 ||dms.fx678.com^
-||0click.ctfile.com^
+||00.ctfile.com^
 ||ds1.kaijia.com^
 ||dsp.ali213.net^
 ||dvs.china.com^
@@ -57459,7 +57459,7 @@ inapps.appsflyersdk.com^
 ||bd.watu.cn^
 ||bd1-china.6789.com^
 ||bd1.365qilu.com^
-||bd1.click.com.cn^
+||bd1.0.com.cn^
 ||bd1.flfgw.cn^
 ||bd1.guancha.cn^
 ||bd1.jinbaozy.com^
@@ -58054,7 +58054,7 @@ analytics-*.aasaam.com
 
 ||chavosh.org^
 
-||clickaval.com^
+||0aval.com^
 ||chabok.io^
 
 ||congoro.com^
@@ -58075,7 +58075,7 @@ analytics-*.aasaam.com
 
 # https://forum.adguard.com/index.php?threads/vigiato-net-resolved.44366/
 # https://github.com/AdguardTeam/AdguardFilters/issues/79983
-||click.digiato.com^
+||0.digiato.com^
 # ^ Used by Digiato, Vigiato, Rooziato
 
 # >> E <<
@@ -58083,7 +58083,7 @@ analytics-*.aasaam.com
 # >> F <<
 ||facepop.org^
 ||farsbux.ir^
-||fastclick.ir^
+||fast0.ir^
 
 ||farakav.com^
 #  TODO: Check for breakages (used by tamasha.com), investigate into more tracking
@@ -58140,7 +58140,7 @@ analytics-*.aasaam.com
 
 # >> O <<
 ||oscaranimation.in^
-||on-click.ir^
+||on-0.ir^
 
 # >> P <<
 ||pooye-ads.com^
@@ -58167,7 +58167,7 @@ analytics-*.aasaam.com
 
 ||phoenixad.io^
 
-||partclick.ir^
+||part0.ir^
 ||persianrank.ir^
 ||popgozar.com^
 ||pushe.co^
@@ -58222,7 +58222,7 @@ analytics-*.aasaam.com
 ||userfriendly.ir^
 # ^ Used by bils.ir
 
-||utopclick.com^
+||utop0.com^
 ||utop.ir^
 
 # >> V <<
@@ -58573,10 +58573,10 @@ analytics-*.aasaam.com
 ||beacon.search.yahoo.com^
 ||beacons.helium.com^
 ||c.newsinc.com^
-||click.livejasmin.com^
-||click.mmosite.com^
-||clicks.hurriyet.com.tr^
-||clicks.traffictrader.net^
+||0.livejasmin.com^
+||0.mmosite.com^
+||0s.hurriyet.com.tr^
+||0s.traffictrader.net^
 ||clientlog.portal.office.com^
 ||clk.about.com^
 ||cls.ichotelsgroup.com^
@@ -58721,7 +58721,7 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
 @@||sponsor.nitropay.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157550
-@@||click.cptrack.de^|
+@@||0.cptrack.de^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
 ! line25.com - not able to accept cookies to use the page
 @@|ezodn.com^|
@@ -58737,7 +58737,7 @@ analytics-*.aasaam.com
 @@||go.adjust.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
 ! Blocked by CNAME getblueshift.com
-@@||clickattr.wayup.com^|
+@@||0attr.wayup.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
 ! Blocked by CNAME adperfect.com
 @@||remembering.ca^|
@@ -58770,7 +58770,7 @@ analytics-*.aasaam.com
 ! https://old.reddit.com/r/Adguard/comments/wkcvpx/redirect_link_not_working_when_adguard_pro_ios_is/
 @@||link.morningbrew.com^|
 ! https://forum.adguard.com/index.php?threads/incorrect-extension-blocking.49177/#post-223130
-@@||click.appcast.io^|
+@@||0.appcast.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
 @@||public-cis.exponea.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/977
@@ -58857,10 +58857,10 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/629
 @@||envato.market^|
 ! https://github.com/AdguardTeam/AdguardFilters/pull/76413
-! whitelist as click-through
+! whitelist as 0-through
 @@||ac.ebis.ne.jp^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/602
-! Don't block clicks in AWS emails
+! Don't block 0s in AWS emails
 @@||email.awscloud.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/574
 ! Blocked by ||relevant-digital.com^
@@ -58890,7 +58890,7 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
 @@||links.getblueshift.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/453
-@@||click.trafficguard.ai^|
+@@||0.trafficguard.ai^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/441
 @@||hb.afl.rakuten.co.jp^|
 @@||pt.afl.rakuten.co.jp^|
@@ -58907,8 +58907,8 @@ analytics-*.aasaam.com
 @@||gs.statcounter.com^|
 ! Blocked by exacttarget.com alias
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
-@@||click.virt.s*.exacttarget.com^|
-@@||click.virt.exacttarget.com^|
+@@||0.virt.s*.exacttarget.com^|
+@@||0.virt.exacttarget.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/685
 ! Exacttarget Marketing Cloud
 @@||mc.*.exacttarget.com^|
@@ -58924,7 +58924,7 @@ analytics-*.aasaam.com
 @@||log.mmstat.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/345
 ! Blocked by alimama.com alias
-@@||click.simba.taobao.com^|
+@@||0.simba.taobao.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/340
 @@||cs.silverpop.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/312
@@ -58933,8 +58933,8 @@ analytics-*.aasaam.com
 @@||cindyholbrook.lpages.co^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/289
 ! Fixing a Shop and a Ads in search results.
-! These ads cannot be hidden on the DNS-level, so we should not break clicks on the adverts
-@@||pagead.l.0click.net^|
+! These ads cannot be hidden on the DNS-level, so we should not break 0s on the adverts
+@@||pagead.l.00.net^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/287
 @@||my.tealiumiq.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/267
@@ -58979,6 +58979,6 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6486
 @@||track.rutarget.ru^|
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
-@@||5471782.fls.0click.net^|
+@@||5471782.fls.00.net^|
 ! Fixing Walmart
 @@||omniture.walmart.com^|
