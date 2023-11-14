@@ -553,8 +553,8 @@
 ||outwhirlipedeer.com^
 ||gecko.me^
 ||ad.bluepartner.eu^
-||androidtvchannels-pa.googleapis.com^
-||androidtvwatsonfe-pa.googleapis.com^
+||androidtvchannels-pa.aapis.com^
+||androidtvwatsonfe-pa.aapis.com^
 ||allsports4free.live^
 ||viadata.store^
 ||jicypigra.com^
@@ -606,7 +606,7 @@
 ||stimulateartificial.com^
 ||natexo-programmatic.com^
 ||cdend.com^
-||googles.video^
+||as.video^
 ||brunettemattersrefused.com^
 ||adshares.net^
 ||71213zhazha.com^
@@ -13162,8 +13162,8 @@ vkcdnservice.appspot.com^
 ||goodsscoop.com^
 ||goodweet.xyz^
 ||goodyflicks.digital^
-||googleapi.club^
-||googleseo.life^
+||aapi.club^
+||aseo.life^
 ||goohimom.net^
 ||goomaphy.com^
 ||gooods4you.com^
@@ -32870,7 +32870,7 @@ vkcdnservice.appspot.com^
 ||zemanta.com^
 ||zeropark.com^
 ||zwaar.org^
-! Chinese google (https://github.com/easylist/easylist/issues/15643)
+! Chinese a (https://github.com/easylist/easylist/issues/15643)
 ||2mdn-cn.net^
 ||admob-cn.com^
 ! Samsung/LG/Philips smart-TV ad domains
@@ -33045,7 +33045,7 @@ vkcdnservice.appspot.com^
 ||mmwebhandler.888.com^
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
-||pagead2.googlesyndication.com^
+||pagead2.asyndication.com^
 ||parking.godaddy.com^
 ||partner.e-conomic.com^
 ||partner.vecteezy.com^
@@ -34418,7 +34418,7 @@ vkcdnservice.appspot.com^
 ||config.appjolt.com
 ||adflake.com^
 ||ads.aitype.net^
-||ad-creatives-public.commondatastorage.googleapis.com^
+||ad-creatives-public.commondatastorage.aapis.com^
 ://o0e.ru^
 ||1mp.mobi^
 ||247realmedia.com^
@@ -34654,7 +34654,7 @@ vkcdnservice.appspot.com^
 ||thetrafficstat.net^
 ||tizerclik.com^
 ||tm1.hoiplay.com^
-||tpc.googlesyndication.com^
+||tpc.asyndication.com^
 ||track.cpatool.net^
 ||trackimpression.com^
 ||tracking.applift.com^
@@ -34728,9 +34728,9 @@ vkcdnservice.appspot.com^
 ! ||bugly.qcloud.com^
 ! ||cdn.signalfx.com^
 ! ||crash-reports.browser.yandex.net^
-! ||crashlytics2.l.google.com^
-! ||crashlyticsreports-pa.googleapis.com^
-! ||crashlyticsreports-pa.googleapis.com^
+! ||crashlytics2.l.a.com^
+! ||crashlyticsreports-pa.aapis.com^
+! ||crashlyticsreports-pa.aapis.com^
 ! ||e.crashlytics.com^
 ! ||events.backtrace.io^
 ! ||events.split.io^
@@ -34899,8 +34899,8 @@ vkcdnservice.appspot.com^
 ||b.karte.io^
 ||cra.hum.works^
 ||log.trackingio.com^
-||region1.analytics.google.com^
-||google-analytics.com^
+||region1.analytics.a.com^
+||a-analytics.com^
 ||iad.anm.co.uk^
 ||cdn.pranmcpkx.com^
 ||firstblackphase.com^
@@ -36812,8 +36812,8 @@ vkcdnservice.appspot.com^
 ||goldstats.com^
 ||goneviral.com^
 ||goodcounter.org^
-||google-pagerank.net^
-||googlerank.info^
+||a-pagerank.net^
+||arank.info^
 ||gooo.al^
 ||gopjn.com^
 ||gosquared.com^
@@ -41268,7 +41268,7 @@ vkcdnservice.appspot.com^
 ||vfo.voyage-prive.co.uk^
 ||vgo.vegaoo.de^
 ||vhsrwd.aip24.pl^
-||video-ad-stats.googlesyndication.com^
+||video-ad-stats.asyndication.com^
 ||videostats.kakao.com^
 ||views.romaniatv.net^
 ||vortex.hulu.com^
@@ -41485,7 +41485,7 @@ inapps.appsflyersdk.com^
 ||register.appsflyer.com^
 ||sdk-services.appsflyer.com^
 ||sdk.appsflyer.com^
-||statsgoogle.appsflyer.com^
+||statsa.appsflyer.com^
 ||track.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
@@ -42000,7 +42000,7 @@ inapps.appsflyersdk.com^
 ||rlog-api.under9.co^
 ||rlog.9gag.com^
 ||sc-analytics.appspot.com^
-||ssl-google-analytics.l.google.com^
+||ssl-a-analytics.l.a.com^
 ||stat.duokanbox.com^
 ||stats.popcap.com^
 ||tknet.rayjump.com^
@@ -42010,7 +42010,7 @@ inapps.appsflyersdk.com^
 ||trk.pinterest.com^
 ||tunein.adswizz.com^
 ||ws.ksmobile.net^
-||www-google-analytics.l.google.com^
+||www-a-analytics.l.a.com^
 ||ymtracking.com^
 ! UC Browser
 ||upoll.umengcloud.com^
@@ -42142,7 +42142,7 @@ inapps.appsflyersdk.com^
 ||glamipixel.com^
 ||glimr.io^
 ||glookup.info^
-||googleoptimize.com^
+||aoptimize.com^
 ||gw-dv.vip^
 ||hdmtools.com^
 ||hsadspixel.net^
@@ -43048,10 +43048,10 @@ inapps.appsflyersdk.com^
 ||zuyapixel.com^
 ||zuzab.com^
 ||zx-adnet.com^
-! Chinese google (https://github.com/easylist/easylist/issues/15643)
-||google-analytics-cn.com^
-||googleoptimize-cn.com^
-||googletagmanager-cn.com^
+! Chinese a (https://github.com/easylist/easylist/issues/15643)
+||a-analytics-cn.com^
+||aoptimize-cn.com^
+||atagmanager-cn.com^
 ! Oracle
 ||addthis.com^
 ||addthisedge.com^
@@ -43903,7 +43903,7 @@ inapps.appsflyersdk.com^
 ||apple.www.letv.com^
 ||applets.ebxcdn.com^
 ||argos.citruserve.com^
-||attributiontrackingga.googlecode.com^
+||attributiontrackingga.acode.com^
 ||audience.newscgp.com^
 ||audit.303br.net^
 ||audit.median.hu^
@@ -43968,7 +43968,7 @@ inapps.appsflyersdk.com^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
 ||client.tahono.com^
-||clouderrorreporting.googleapis.com^
+||clouderrorreporting.aapis.com^
 ||cloudfront-labs.amazonaws.com^
 ||cltgtstor001.blob.core.windows.net^
 ||cnt.3dmy.net^
@@ -44095,7 +44095,7 @@ inapps.appsflyersdk.com^
 ||events.yourcx.io^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
-||fcmatch.google.com^
+||fcmatch.a.com^
 ||fcmatch.youtube.com^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
@@ -44213,7 +44213,7 @@ inapps.appsflyersdk.com^
 ||ms-trackingapi.phenompeople.com^
 ||msadsscale.azureedge.net^
 ||mts.mansion.com^
-||myscoop-tracking.googlecode.com^
+||myscoop-tracking.acode.com^
 ||neocounter.neoworx-blog-tools.net^
 ||net-tracker.notolytix.com^
 ||netlify-rum.netlify.app^
@@ -44514,7 +44514,7 @@ inapps.appsflyersdk.com^
 ||traffic.acwebconnecting.com^
 ||traffic.shareaholic.com^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
-||trakksocial.googlecode.com^
+||trakksocial.acode.com^
 ||trap.skype.com^
 ||traxex.gannettdigital.com^
 ||trends.newsmaxwidget.com^
@@ -46581,7 +46581,7 @@ inapps.appsflyersdk.com^
 ||armi.media^
 ||wjgohz.com^
 ||gecatikonstantin.ru^
-||pornogoogle.info^
+||pornoa.info^
 ||v1rton.news^
 ||zzznews.ru^
 ||7wwchtqe.ru^
@@ -49688,7 +49688,7 @@ inapps.appsflyersdk.com^
 ||campaign.nmobs.com^
 ||cdn.hiperadverts.com^
 ||edgead.woomedya.com^
-||partnerad.l.google.com^
+||partnerad.l.a.com^
 ||reklam.arabul.com^
 ||reklam.bahisanaliz.com^
 ||reklam.emlakkulisi.com^
@@ -49828,7 +49828,7 @@ inapps.appsflyersdk.com^
 ||bizmotion.jp^
 ||impactify.media^
 ||promolayer.io^
-||googleailesi.com^
+||aailesi.com^
 ||bartinkizogrenciyurdu.com^
 ||ratel-ad.com^
 ||cdn.mixx-ad.net^
@@ -50884,7 +50884,7 @@ inapps.appsflyersdk.com^
 ||adserver.ddev.site^
 ||adserver.infotorg.se^
 ||adserver.so-rummet.se^
-||adservice.google.se^
+||adservice.a.se^
 ||advert.livesportmedia.eu^
 ||advert.rabaldermedia.se^
 ||af.analytics.elx.cloud^
@@ -51924,9 +51924,9 @@ inapps.appsflyersdk.com^
 ||gammaplatform.com^
 ||gammassp.com^
 ||genmonet.com^
-||google-shopping-v2.sapoapps.vn^
-||google-shopping.sapoapps.vn^
-||googleshopping.sapoapps.vn^
+||a-shopping-v2.sapoapps.vn^
+||a-shopping.sapoapps.vn^
+||ashopping.sapoapps.vn^
 ||groupstats.chat.zalo.me^
 ||groupstats.event.zalo.me^
 ||haraads.com^
@@ -57124,7 +57124,7 @@ inapps.appsflyersdk.com^
 ||js.hkslg520.com^
 ||jsyefc.com^
 ||jxad.jx163.com^
-||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
+||kmma.oss-ap-southeast-1.aliyuncs.com^
 ||libfre.obs.cn-east-3.myhuaweicloud.com^
 ||ll.gxsky.com^
 ||lxting.com^
@@ -57837,7 +57837,7 @@ inapps.appsflyersdk.com^
 ||richh.cn^
 ||rxys.cn^
 ||s.zixuntop.com^
-||s1.dugoogle.com^
+||s1.dua.com^
 ||s1.hanlinzhijia.com^
 ||s1.pipishu.com^
 ||s1.tuzhaozhao.com^
@@ -58116,7 +58116,7 @@ analytics-*.aasaam.com
 
 # >> M <<
 ||ir.mihanstore.net^
-# Example: uploadgoogle.com
+# Example: uploada.com
 
 ||metrix.ir^
 # ^ Used by digikala.com
@@ -58929,7 +58929,7 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/304
 @@||cindyholbrook.lpages.co^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/289
-! Fixing Google Shop and Google Ads in search results.
+! Fixing a Shop and a Ads in search results.
 ! These ads cannot be hidden on the DNS-level, so we should not break clicks on the adverts
 @@||pagead.l.0click.net^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/287
